@@ -14,8 +14,14 @@ def create_boxscore_dfs(season, start, end):
 	b_games=[]
 	player_dict = dict()
 	player_stats=[]
+	box_id = []
+	box_keys ={}
 	box_games = Boxscores(start, season, end).games
-	box_id = [ids['boxscore'] for v in box_games.values() for ids in v]
+	for k,v in box_games.items():
+	    for box in v:
+	        box_keys[box['boxscore']] = k.split('-')[0]
+	        box_id.append(box['boxscore'])
+	#box_id = [ids['boxscore'] for v in box_games.values() for ids in v]
 	for ids in box_id:
 	    box = Boxscore(ids)
 	    for p in box.home_players:
@@ -37,10 +43,12 @@ def create_boxscore_dfs(season, start, end):
 	    b_games.append(box.dataframe)
 	boxscore_stats_df = pd.concat(player_stats)
 	box_df = pd.concat(b_games)
-	box_keys ={}
-	for k,v in box_games.items():
-	    for box in v:
-	        box_keys[box['boxscore']] = k.split('-')[0]
+	# Temp cut out to try and work it into the first nested loop
+	#box_keys ={}
+	#for k,v in box_games.items():
+	#    for box in v:
+	#        box_keys[box['boxscore']] = k.split('-')[0]
+	
 	# creates in the boxscore_stats_df a column for what week the game was played
 	boxscore_stats_df['week'] = boxscore_stats_df['box_id'].map(lambda x: box_keys[x])
 
@@ -48,7 +56,7 @@ def create_boxscore_dfs(season, start, end):
 	box_df = box_df.reset_index().rename(columns={'index':'box_id'})
 	box_df['week'] = box_df['box_id'].map(lambda x: box_keys[x])
 	box_df = box_df.set_index('box_id')
-	
+
 	return boxscore_stats_df, box_df, player_dict
 
 # Code to fix the DJ to D.J. for the espn names to SR names
@@ -59,8 +67,8 @@ def dot_name(name):
             dot_name = ''
             for i in name_split[0]:
                 dot_name+=(i+'.')
+            
             return dot_name + ' ' +' '.join(name_split[1:])
-
         else:
             return name
     return name
