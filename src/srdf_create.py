@@ -98,8 +98,8 @@ def broken_name(name):
     return name
 
 
-def create_ff_players_df(player_dict):
-	combine_player_pos=[pd.read_csv(f'data/2019/{i+1}wk_players.csv')for i in range(0, 13)]
+def create_ff_players_df(player_dict, week):
+	combine_player_pos=[pd.read_csv(f'data/2019/{i+1}wk_players.csv')for i in range(0, week)]
 	player_pos_df = pd.concat(combine_player_pos)
 	player_pos_df.rename(columns={'0':'name', '1':'pos'}, inplace=True)
 	p_unique=[]
@@ -115,6 +115,8 @@ def create_ff_players_df(player_dict):
 	    unique_players.add((a,b,c))
 	u_player_pos_df = pd.DataFrame(unique_players).rename(columns={0:'espn_name', 1:'pos', 2:'sr_name'})
 	u_player_pos_df['player_id'] = u_player_pos_df['sr_name'].map(lambda x: player_dict[x] if 'D/ST' not in x and x not in ['A.J. Green','Rob Gronkowski'] else np.nan)
+
+	return u_player_pos_df
 
 
 def clean_teams(boxscore_stats, player_pos):
