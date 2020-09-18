@@ -1,3 +1,7 @@
+# LGED WRITEUP 1
+
+
+
 ## HELLO THIS IS LGED BOYYYY
 
 # Header 1
