@@ -32,7 +32,7 @@ OJ and Anil are back and week 1, get the L. This match up had the 2019 MVP and t
 Here is the breakdown:
 
 | Rank | Year | Name                  | Fantasy Points|
-|:-----|:-----|:----------------------|:--------------|
+|:----:|:-----|:----------------------|:--------------|
 | 1    | 2017 | Kareem Hunt           |43.1           |
 | 2    | 2016 | Spencer Ware          |29.4           |
 | 3    | 2020 | Clyde Edwards-Helaire |19.8           |
