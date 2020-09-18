@@ -30,6 +30,7 @@ My squad gets the W with everything on the line going into MNF. It was lined up 
 OJ and Anil are back and week 1, get the L. This match up had the 2019 MVP and the MVP runner up going head to head. Lamar Jackson may have won the MVP, but Russell Wilson had the better week 1 (go hawks, very low hanging fruit I know). It wasn’t enough to get OJ and Anil the W. Kyle’s team had a good week behind Calvin Ridley’s 130 yards and 2 TD game for 29.4 points. Saquon Barkely comes out flat in week 1. Austin Seibert, Kyle’s kicker, may have been paid by OJ to miss everything and try to bring Kyle’s score down. For Anil, the week looked good on TNF. Chiefs rookie RB Clyde Edwards-Helaire (the H is silent you uncultured swines) puts up pretty good numbers with 19.8 points. I did a deep dive to see how well this ranked among Chiefs' running backs fantasy performances for week 1. Edwards-Helaire ranks 3rd in the last 10 years. 
 
 Here is the breakdown:
+
 | Rank | Year | Name                  | Fantasy Points|
 |:-----|:-----|:----------------------|:--------------|
 | 1    | 2017 | Kareem Hunt           |43.1           |
