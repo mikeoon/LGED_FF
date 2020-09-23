@@ -13,7 +13,7 @@ Stay tuned, always happy to hear what you guys think.
 
 
 |    GM     | # Scoring Champion | # Got Roasted |
-|:---------:|:------------------:|:--------------|
+|:---------:|:------------------:|:-------------:|
 | Kai       |                    |               |
 | Andrew    |         2          |               |
 | Eugene    |                    |               |
