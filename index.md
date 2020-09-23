@@ -1,7 +1,9 @@
 # Hello, this is a test
 
-I want to be able to link pages here:
+**Welcome, fellow degenerate**
 
-[page1](./2020_writeups/week1_writeup_2020.md)
 
-[page2](./2020_writeups/week2_writeup_2020.md)
+## LGED V3: 2020 Writeups
+[Week 1](./2020_writeups/week1_writeup_2020.md)
+
+[Week 2](./2020_writeups/week2_writeup_2020.md)
