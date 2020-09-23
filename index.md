@@ -5,7 +5,7 @@ Stay tuned, always happy to hear what you guys think.
 
 
 
-## LGED V3: 2020 Writeups
+## 2020 LGED Season 3: Writeups
 [Week 1: COVID Ain't Stopping Us](./2020_writeups/week1_writeup_2020.md)
 
 [Week 2: Injuries Creep in, Streaks Begin](./2020_writeups/week2_writeup_2020.md)
