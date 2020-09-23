@@ -84,3 +84,9 @@ So for that, we thank you
 
 
 ![](../media/Earl_IMG_3905.jpg)
+
+
+[HOME](../index.md)
+
+
+[Week 2](./week2_writeup_2020.md)
