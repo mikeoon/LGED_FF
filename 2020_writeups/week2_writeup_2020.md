@@ -70,3 +70,6 @@ So for that, we thank you
 
 
 #### Good Luck in Week 3 you fucking degenerates.
+
+
+![](../media/Earl_IMG_3905.jpg)
