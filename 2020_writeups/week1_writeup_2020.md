@@ -58,14 +58,13 @@ The Cowboys combo of Dak Prescott and Ezekiel Elliot worked well in an otherwise
 Andrew’s WR alone, DeAndre Hopkins and Adam Thielen putting up a third of his team’s points for a combined 50.1\
 Noah Fant looking like good value as a draft pick in the 9th round\
 And Robert Woods wins round 1 against Cooper Kupp in more fantasy points for the Rams WR’s\
-Things looking real EBEDBEE for EBDB BnB\
+Things looking real EBEDBEE for EBDB BnB
 
 
 ## Lowest Scoring Team
 **The Shady Bunch - Connor**\
 **83.26 pts.**\
 **Best player: Tom Brady QB - 20.46 pts.**\
-
 First roast of the season and my fingers are twitching with excitement\
 You put a lot of faith in the Browns drafting Nick Chubb and Odell Beckham Jr. who combined for 8.8 points\
 Apparently OBJ loves playing like and with shit\
@@ -78,7 +77,7 @@ Tom Brady managed to scrounge to get some points for the bunch, but looked kind 
 Tyler Lockett… My guy, can’t say a single bad thing about him. Dude is a saint (go hawks)\
 You could have randomly played someone on your bench in your flex instead of Devante Parker and you would’ve had an 80% chance to put up the same or more points than you did saving yourself from lowest scoring\
 However, you did remind us that playing multiple skill guys from the same team can burn you\
-So for that, we thank you\
+So for that, we thank you
 
 
 #### Good Luck in Week 2 you fucking degenerates.
