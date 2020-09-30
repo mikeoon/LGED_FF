@@ -1,4 +1,4 @@
-# Week 3 Writeup
+# LGED 2020 Week-3 Recap: All the Action on Monday Night Football
 
 ### whaddup
 This week was a true fight for the highest scoring team. 4 teams total were in the running with 3 of those teams duking it out on monday night football. 3 teams remain undefeated while 2 teams are winless.
