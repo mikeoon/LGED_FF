@@ -4,6 +4,9 @@ Made this page so that we can create a more custom experience for our league. In
 Stay tuned, always happy to hear what you guys think.
 
 
+<br>
+<br>
+
 
 ## 2020 LGED Season 3: Writeups
 ### [Week 1: COVID Ain't Stopping Us](./2020_writeups/week1_writeup_2020.md)
