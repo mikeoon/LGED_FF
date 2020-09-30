@@ -21,7 +21,7 @@ Stay tuned, always happy to hear what you guys think.
 
 
 
-## League Leaderboard
+## League Leaderboards
 
 
 |    GM     | # Scoring Champion | # Got Roasted |
@@ -38,7 +38,6 @@ Stay tuned, always happy to hear what you guys think.
 | Connor    |                    |       1       |
 | Kyle      |                    |               |
 | Zach      |                    |       1       |
-
 
 |Season Record Holders|||
 |:-----------:|:------------------:|:--------------|
