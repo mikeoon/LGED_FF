@@ -6,9 +6,11 @@ Stay tuned, always happy to hear what you guys think.
 
 
 ## 2020 LGED Season 3: Writeups
-#### [Week 1: COVID Ain't Stopping Us](./2020_writeups/week1_writeup_2020.md)
+### [Week 1: COVID Ain't Stopping Us](./2020_writeups/week1_writeup_2020.md)
 
-#### [Week 2: Injuries Creep in, Streaks Begin](./2020_writeups/week2_writeup_2020.md)
+### [Week 2: Injuries Creep in, Streaks Begin](./2020_writeups/week2_writeup_2020.md)
+
+### [Week 3: All the Action on Monday Night Football](./2020_writeups/2020_week3_writeup.md)
 
 
 
@@ -16,7 +18,7 @@ Stay tuned, always happy to hear what you guys think.
 |:---------:|:------------------:|:-------------:|
 | Kai       |                    |               |
 | Andrew    |         2          |               |
-| Eugene    |                    |               |
+| Eugene    |         1          |               |
 | Mike      |                    |               |
 | Junghwan  |                    |       1       |
 | Matt      |                    |               |
@@ -25,7 +27,7 @@ Stay tuned, always happy to hear what you guys think.
 | Danny     |                    |               |
 | Connor    |                    |       1       |
 | Kyle      |                    |               |
-| Zach      |                    |               |
+| Zach      |                    |       1       |
 
 
 |Season Record Holders|||
