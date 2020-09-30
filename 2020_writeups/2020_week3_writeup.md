@@ -1,7 +1,8 @@
 # LGED 2020 Week-3 Recap: All the Action on Monday Night Football
 
 ### whaddup
-This week was a true fight for the highest scoring team. 4 teams total were in the running with 3 of those teams duking it out on monday night football. 3 teams remain undefeated while 2 teams are winless.
+Monday Night Football was not only a huge matchup for two great AFC teams, but a lot hung in the balance for us degenerates. A few matchups were decided, 
+4 teams total were in the running for highest scoring team, and a lowest scoring team was decided. In the league, 3 teams remain undefeated while 2 teams are... defeated.
 
 Major shoutout to my guy Jermain Kearse for retiring this week. Seahawks put up a dope tribute video of him on their [twitter account](https://twitter.com/Seahawks/status/1311000575631261696?s=20)
 
