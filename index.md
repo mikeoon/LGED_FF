@@ -21,7 +21,7 @@ Stay tuned, always happy to hear what you guys think.
 
 
 
-### League Leaderboard
+## League Leaderboard
 
 
 |    GM     | # Scoring Champion | # Got Roasted |
