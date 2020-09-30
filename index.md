@@ -13,6 +13,11 @@ Stay tuned, always happy to hear what you guys think.
 ### [Week 3: All the Action on Monday Night Football](./2020_writeups/2020_week3_writeup.md)
 
 
+\
+\
+\
+\
+
 
 |    GM     | # Scoring Champion | # Got Roasted |
 |:---------:|:------------------:|:-------------:|
