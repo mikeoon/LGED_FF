@@ -24,7 +24,7 @@ Kyle is also among the undefeated. I was hoping this matchup would be decided on
 | Amari Cooper Fantasy points |           |
 | --------------------------- |:---------:|
 | Week 1                      | 13.1      |
-| week 2                      | 13.0      |
+| Week 2                      | 13.0      |
 | Week 3                      | 13.1      |
 
 
