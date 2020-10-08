@@ -15,6 +15,7 @@ Stay tuned, always happy to hear what you guys think.
 
 ### [Week 3: All the Action on Monday Night Football](./2020_writeups/2020_week3_writeup.md)
 
+### [LGED 2020 Week-4 Recap: COVID has Entered the League](./2020_writeups/2020_week4_writeup.md)
 
 <br>
 <br>
