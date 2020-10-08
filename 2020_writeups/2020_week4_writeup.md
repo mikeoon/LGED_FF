@@ -68,3 +68,15 @@ So for that we thank you.
 
 
 #### Good luck in Week 5 you fucking degenerates.
+
+
+![](../media/Earl_IMG_3905.jpg)
+
+
+[HOME](../index.md)
+
+
+[Week 3](./2020_week3_writeup.md)
+
+
+[Week 5](./2020_week5_writeup.md)
