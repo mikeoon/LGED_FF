@@ -1,4 +1,4 @@
-#
+# LGED 2020 Week-4 Recap: COVID has Entered the League
 
 ### whaddupp
 
@@ -8,7 +8,7 @@ Week 4 we saw continued success and lack thereof. The standings are starting to 
 
 We’ve had some suggestions for a possible league podcast. I like the idea and we’ll see if we can get something going. If you guys have other suggestions feel free speak up, more activity is always a plus
 
-![](https://tenor.com/view/step-brothers-room-for-activities-gif-10162194)
+![Hi](https://tenor.com/view/step-brothers-room-for-activities-gif-10162194)
 
 Let's get into week 4.
 
