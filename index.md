@@ -15,7 +15,7 @@ Stay tuned, always happy to hear what you guys think.
 
 ### [Week 3: All the Action on Monday Night Football](./2020_writeups/2020_week3_writeup.md)
 
-### [LGED 2020 Week-4 Recap: COVID has Entered the League](./2020_writeups/2020_week4_writeup.md)
+### [Week 4: COVID has Entered the League](./2020_writeups/2020_week4_writeup.md)
 
 <br>
 <br>
@@ -33,11 +33,11 @@ Stay tuned, always happy to hear what you guys think.
 | Kai       |                    |               |
 | Andrew    |         2          |               |
 | Eugene    |         1          |               |
-| Mike      |                    |               |
+| Mike      |         1          |               |
 | Junghwan  |                    |       1       |
 | Matt      |                    |               |
 | Anil      |                    |               |
-| Miles     |                    |               |
+| Miles     |                    |       1       |
 | Danny     |                    |               |
 | Connor    |                    |       1       |
 | Kyle      |                    |               |
