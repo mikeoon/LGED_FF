@@ -81,4 +81,4 @@ So for that, we thank you
 [Week 1](./week1_writeup_2020.md)
 
 
-[Week 3]()
+[Week 3](./2020_week3_writeup.md)
