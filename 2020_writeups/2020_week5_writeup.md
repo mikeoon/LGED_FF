@@ -1,4 +1,4 @@
-# LGED 2020 Week-5 Recap: Only One Undfeated Team Remains and Everybody has a Win
+# LGED 2020 Week-5 Recap: One Undfeated Team Remains and Everybody has a Win
 
 ### whaddupp
 
@@ -11,8 +11,11 @@ Also, **LAAAAAAAAAAAKKKKKKKERRRRSSSS**
 Let’s get on to week 5.
 
 
-**Yoon Pooned (100.66)** vs Carroll’s A Coward (91.1)\
-Back-to-back wins for my squad and Kyle’s first loss of the season. After being the highest scoring team last week, my team came back to earth with some pretty mediocre numbers. Thank god the Titans Bills game actually happened, couldn’t go without my guy Derrick Henry two weeks in a row. Henry found the endzone twice and had a ![massive stiff arm on Josh Norman](https://www.youtube.com/watch?v=HBrTsnwQamE&feature=youtu.be). Keenan Allen gave me a TD before leaving the game early with back spasms. Robby Anderson continues to produce and is a top 10 WR so far in fantasy. George Kittle struggled within a sputtering 49ers offense (how much are they paying Jimmy Garoppolo??). Chris Carson is my guy and so far through 5 weeks has been as steady as I would hope he would be. Let’s see how far my team can continue to poon. Kyle had his lowest scoring output this season. Best player this week was Calvin Ridley with 17.6 which is a nice bounce back after his 0.0 last week. Ronald Jones II hits 100+ yards with a handful of catches for the second week in a row. Mark Ingram II, Kyle’s waiver wire pick of the week, didn’t have much success like his backfield counterpart Lamar Jackson… is it time to jump ship and play Deshaun Watson? Probably not, I’m just trying to get into Kyle’s head. In the last 3 weeks, Kyle’s team has scored an average of 27 points from his Kicker and D/ST alone. That is great production in those slots and the funny thing is it’s all Colts. Dak’s injury might have played a part in Amari Cooper’s first game under 13.0 points. Down week for Carroll’s a Coward, but just 1 loss so far.
+| **Yoon Pooned (100.66)** | **100.66**    | Carroll’s A Coward  | 91.1  |
+| ------------------------ |:-------------:| --------------------|:-----:|
+
+
+Back-to-back wins for my squad and Kyle’s first loss of the season. After being the highest scoring team last week, my team came back to earth with some pretty mediocre numbers. Thank god the Titans Bills game actually happened, couldn’t go without my guy Derrick Henry two weeks in a row. Henry found the endzone twice and had a [massive stiff arm on Josh Norman](https://www.youtube.com/watch?v=HBrTsnwQamE&feature=youtu.be). Keenan Allen gave me a TD before leaving the game early with back spasms. Robby Anderson continues to produce and is a top 10 WR so far in fantasy. George Kittle struggled within a sputtering 49ers offense (how much are they paying Jimmy Garoppolo??). Chris Carson is my guy and so far through 5 weeks has been as steady as I would hope he would be. Let’s see how far my team can continue to poon. Kyle had his lowest scoring output this season. Best player this week was Calvin Ridley with 17.6 which is a nice bounce back after his 0.0 last week. Ronald Jones II hits 100+ yards with a handful of catches for the second week in a row. Mark Ingram II, Kyle’s waiver wire pick of the week, didn’t have much success like his backfield counterpart Lamar Jackson… is it time to jump ship and play Deshaun Watson? Probably not, I’m just trying to get into Kyle’s head. In the last 3 weeks, Kyle’s team has scored an average of 27 points from his Kicker and D/ST alone. That is great production in those slots and the funny thing is it’s all Colts. Dak’s injury might have played a part in Amari Cooper’s first game under 13.0 points. Down week for Carroll’s a Coward, but just 1 loss so far.
 
 
 **Kingdom DooDoo (96.5)** vs Post Mahomes (92.86)\
@@ -22,7 +25,7 @@ King DooDoo Miles himself may have caught a spark after last week’s roast, shi
 **I need Moore points (119.22)** vs OJ is my GM (81.98)\
 Junghwan gets his second win of the season over Anil and OJ. Josh Jacobs had his second multi-TD game of the season for 21.5 points. Todd Gurley II heard me talking about him being only a TD guy in fantasy and broke off 121 rushing yards. Gurely’s highest rushing yard total by 41 yards. He also scored a touchdown. Joe Burrow got rocked in Maryland. Burrow fumbled and threw an interception for a total of 4.32 points. Tyreek Hill still hasn’t produced that massive game just yet, but he’s averaging 16.46 points through 5 weeks so no one is complaining. Jason Sanders provided Moore points with 22.0, dude had 5 field goals made and 4 extra points. Junghwan’s defense felt all those as the 49ers D/ST gave him -4 points. Let’s be real though, who is finding any production behind their D/ST slot?? Speaking of finding production at the D/ST slot, Anil and OJ may have come up with a new strategy for GM’s in the LGED. Don’t even play a D/ST. Anil and OJ put in Broncos D/ST who are on their scheduled bye week. 3 teams would have benefited from this strategy in week 5. Anil and OJ were not one of them as they got the L. Jerrick McKinnon really took a backseat to Raheem Mostert even though McKinnon has looked good for the 49ers. 2020 MVP Russell Wilson, yup, I’m giving him the award now.
 
-![](lavar_speak.gif)
+![](../media/lavar_speak.gif)
 
 Wilson adds 3 more TD’s to his total this season bringing it to 19. Late game heroics, long drawn out post game interview answers, this is it boys, peak Mr. Unlimited. It was Clyde Edwards-Helaire’s first time not reaching double digit points. Anil and OJ traded for Justin Jefferson just in time for him to score 3.8 points. Anil finds his team 2 - 3 under the OJ leadership, Poop AUTO looms in week 6.
 
