@@ -17,7 +17,7 @@ Stay tuned, always happy to hear what you guys think.
 
 ### [Week 4: COVID has Entered the League](./2020_writeups/2020_week4_writeup.md)
 
-### [Week 5: One Undfeated Team Remains and Everybody has a Win](./2020_writeups/2020_week5_writeup.md)
+### [Week 5: One Undefeated Team Remains and Everybody has a Win](./2020_writeups/2020_week5_writeup.md)
 
 <br>
 <br>
