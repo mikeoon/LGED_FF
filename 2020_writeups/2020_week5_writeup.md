@@ -95,3 +95,13 @@ So for that, we thank you.
 
 #### Good luck in Week 6 you fucking degenerates.
 
+![](../media/Earl_IMG_3905.jpg)
+
+
+[HOME](../index.md)
+
+
+[Week 4](./2020_week4_writeup.md)
+
+
+[Week 6](./2020_week6_writeup.md)
