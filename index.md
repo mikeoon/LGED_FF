@@ -19,6 +19,8 @@ Stay tuned, always happy to hear what you guys think.
 
 ### [Week 5: One Undefeated Team Remains and Everybody has a Win](./2020_writeups/2020_week5_writeup.md)
 
+### [Week 6: The Founding of Club 4 - 2](./2020_writeups/2020_week6_writeup.md)
+
 <br>
 <br>
 <br>
@@ -38,14 +40,14 @@ Stay tuned, always happy to hear what you guys think.
 | Mike      |         1          |               |
 | Junghwan  |                    |       1       |
 | Matt      |                    |               |
-| Anil      |                    |               |
+| Anil      |         1          |               |
 | Miles     |                    |       1       |
 | Danny     |                    |               |
-| Connor    |                    |       1       |
+| Connor    |                    |       2       |
 | Kyle      |                    |               |
 | Zach      |                    |       2       |
 
 |Season Record Holders|||
 |:-----------:|:------------------:|:--------------|
 |Highest Champ|       Andrew       |     153.5     |
-|Lowest  Champ|      Junghwan      |     66.48     |
+|Lowest  Champ|      Connor        |     59.04     |
