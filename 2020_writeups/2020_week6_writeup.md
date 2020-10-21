@@ -11,7 +11,7 @@ Wanted to take a second to remind you all to vote. Don't be like Tom and forget.
 ![](../media/tom_forgot.gif)
 
 
-Week 6 brought the most lopsided scores on average for each matchup. Teams must be getting a better feel for who to start and sit each week… or not. Four teams sit at 4 - 2 and one team is still undefeated leaving the 6th playoff spot still up for grabs. Still too early to call, like I said, a lot more regular season left.
+Week 6 brought the most lopsided scores on average for each matchup. Teams must be getting a better feel for who to start and sit each week… or not. We gave a new lowest scoring title holder. Four teams sit at 4 - 2 and one team is still undefeated leaving the 6th playoff spot still up for grabs. Still too early to call, like I said, a lot more regular season left.
 
 Let’s get into week 6.
 </br>
@@ -29,7 +29,7 @@ Eugene is one of the members of Club 4 - 2 after defeating DooDoo King Miles. Yo
 | ------------------------ |:-------------:| --------------------|:----------:|
 |     **Post Mahomes**      |**86.4**     |  The Shady Bunch|   59.04    |
 
-Connor and the bunch are the lowest scoring team of the week. Anything below 60 is rough. More on the shady performance below. Matt didn’t have a spectacular week either, but he got the job done against the lowest scoring team. Matt’s whole bench didn’t play due to bye weeks, injuries, and a new signing. Aaron Rodgers fresh off the bye week and fired up delivers 3.8 points. Rodgers completed 45.7% of his passes for 160 yards and two interceptions. James Conner has been good as of late. He is on a TD streak that has lasted four weeks now. Phillip Lindsay returns just in time as Melvin Gordon III gets a DUI and puts up 101 yards. Lindsay’s counterpart, Tim Patrick also puts up 101 yards, crazy. James Robinson does less from scrimmage than he did last week, but managed to find the endzone for 13.3 points. We all know Le’Veon Bell joined the Chiefs this week, I’m sure Matt can’t wait for his debut. He may need it next week, as Poop AUTO comes to town.
+Connor and the bunch are the lowest scoring team of the week and sets a new record. Anything below 60 is rough. More on the shady performance below. Matt didn’t have a spectacular week either, but he got the job done against the lowest scoring team. Matt’s whole bench didn’t play due to bye weeks, injuries, and a new signing. Aaron Rodgers fresh off the bye week and fired up delivers 3.8 points. Rodgers completed 45.7% of his passes for 160 yards and two interceptions. James Conner has been good as of late. He is on a TD streak that has lasted four weeks now. Phillip Lindsay returns just in time as Melvin Gordon III gets a DUI and puts up 101 yards. Lindsay’s counterpart, Tim Patrick also puts up 101 yards, crazy. James Robinson does less from scrimmage than he did last week, but managed to find the endzone for 13.3 points. We all know Le’Veon Bell joined the Chiefs this week, I’m sure Matt can’t wait for his debut. He may need it next week, as Poop AUTO comes to town.
 
 
 | W            |         | L       |      |
