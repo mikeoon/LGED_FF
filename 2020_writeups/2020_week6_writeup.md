@@ -6,10 +6,9 @@ With week 6 in the books, we are about half way through this year’s regular se
 
 
 Wanted to take a second to remind you all to vote. Don't be like Tom and forget.
-## VOTE
-
 ![](../media/tom_forgot.gif)
 
+## VOTE
 
 Week 6 brought the most lopsided scores on average for each matchup. Teams must be getting a better feel for who to start and sit each week… or not. We gave a new lowest scoring title holder. Four teams sit at 4 - 2 and one team is still undefeated leaving the 6th playoff spot still up for grabs. Still too early to call, like I said, a lot more regular season left.
 
