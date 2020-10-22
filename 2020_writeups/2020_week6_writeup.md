@@ -14,6 +14,12 @@ Week 6 brought the most lopsided scores on average for each matchup. Teams must 
 
 Let’s get into week 6.
 
+| W            |         | L       |      |
+| ------------------------ |:-------------:| --------------------|:----------:|
+|     **EBDB BnB**      |**96.06**     |  I need Moore points|   73.74    |
+
+We thought we had him. Andrew’s lowest scoring week. His lowest scoring week before this? Week 4, 129.48 points. Junghwan put up a valiant effort but just came up short. Almost a third of Andrew’s points came from Ryan Tannehill. The injury to Dak Prescott was quickly forgotten behind Tannehill’s four TD passes. Despite Tannehill throwing an interception and fumbling, he still did well. Ezekiel Elliot had his worst game of the season so far, fumbling the ball twice for 8.0 points. Neither Elliot nor Kareem Hunt had more than 50 rushing yards. DeAndrew Hopkins caught only two passes for 73 yards. Adam Thielen and Robert Woods both did find the end zone despite low receiving yardage (90 yards combine). If there were a week for EBDB BnB to record its first loss, this was the week. Junghwan’s team was hoping to gain some momentum after his win last week. With his second lowest point total this season, the team’s usual suspects didn’t do that well. Tyreek Hill only had 4 points, Cooper Kupp only had 2.6. Todd Gurley II couldn’t didn’t record a TD this week and Mark Andrews reverted back to his 3 point games. It was the surprise plays where Junghwan’s team found some success. Travis Fulgham has recorded 12.7, 26.2 and 16.5 points in the last three weeks. Fulgham was moved to the roster from the practice squad and played his first game week 4. Not a bad waiver wire pickup. Adrian Peterson has his best game since week 1 with 12.3 points. We just needed a bit Moore from Junghwan’s team to take down EBDB. Junghwan has Eugene next week, perhaps redemption?
+
 
 | W            |         | L       |      |
 | ------------------------ |:-------------:| --------------------|:----------:|
@@ -89,7 +95,7 @@ So for that, we thank you.
 [HOME](../index.md)
 
 
-[Week 4](./2020_week5_writeup.md)
+[Week 5](./2020_week5_writeup.md)
 
 
-[Week 6](./2020_week7_writeup.md)
+[Week 7](./2020_week7_writeup.md)
