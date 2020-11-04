@@ -23,7 +23,7 @@ Stay tuned, always happy to hear what you guys think.
 
 ### Week 7 - BYE
 
-### [Week 8: Forget Club 4 - 2, Club 4 - 4 Babyyyy](./2020_writeups/2020_week8_writeup.md)
+### [Week 8: Forget Club 4 - 2, Club .500 Babyyyy](./2020_writeups/2020_week8_writeup.md)
 
 <br>
 <br>
