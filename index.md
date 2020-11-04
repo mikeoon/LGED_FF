@@ -21,6 +21,10 @@ Stay tuned, always happy to hear what you guys think.
 
 ### [Week 6: The Founding of Club 4 - 2](./2020_writeups/2020_week6_writeup.md)
 
+### Week 7 - BYE
+
+### [Week 8: Forget Club 4 - 2, Club 4 - 4 Babyyyy](./2020_writeups/2020_week8_writeup.md)
+
 <br>
 <br>
 <br>
@@ -42,10 +46,10 @@ Stay tuned, always happy to hear what you guys think.
 | Matt      |                    |               |
 | Anil      |         1          |               |
 | Miles     |                    |       1       |
-| Danny     |                    |               |
-| Connor    |                    |       2       |
-| Kyle      |                    |               |
-| Zach      |                    |       2       |
+| Danny     |         1          |               |
+| Connor    |         1          |       2       |
+| Kyle      |                    |       1       |
+| Zach      |                    |       3       |
 
 |Season Record Holders|||
 |:-----------:|:------------------:|:--------------|
