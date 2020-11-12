@@ -1,4 +1,4 @@
-# LGED 2020 Week-9 Recap: Playoff Hopes Dwindle
+# LGED 2020 Week-9 Recap: Playoff Hopes Begin to Dwindle
 
 ### whaddup
 
@@ -27,7 +27,7 @@ My team gets their second win a row against Connor and the Shady Bunch. Keenan A
 | ------------------------ |:-------------:| --------------------|:----------:|
 |     **Catch 22**      | **147.72**  |  Carroll’s A Coward |   77.84  |
 
-Eugene for the second time this season is the highest scoring team of the week. I don’t think it’s a coincidence that he scored the highest this week when Christan McCaffrey returned. More on Eugene’s performance below. Both these teams are now 5 - 4. Kyle’s team, similar to Poop AUTO, started the league with four straight wins and have only won one of the last five. The injury to Saquon Barkely is still being felt. Ronald Jones II has been left to fill that void. Kyle hasn’t really found another RB. He’s looked to the past and picked up Frank Gore and Adrian Peterson, but they haven’t produced that well. The Dak Prescott injury has rippled a bit into Amari Cooper’s production. Cooper found some success this week with 10 fantasy points and the most since Andy Dalton went down. Calvin Ridley and Tevin Coleman were both hurt and didn’t play. Maybe Kyle forgot to set his lineup? There wasn’t much help on the bench and he did play the highest scoring team. Nice week to “forget”. Deshaun Watson has been the better QB for Kyle. Lamar Jackson seems to have regressed a bit… maybe for a late season push?? Still, despite playing two injured players, Kyle wasn’t the lowest scoring team...
+Eugene for the third time this season is the highest scoring team of the week. I don’t think it’s a coincidence that he scored the highest this week when Christan McCaffrey returned. More on Eugene’s performance below. Both these teams are now 5 - 4. Kyle’s team, similar to Poop AUTO, started the league with four straight wins and have only won one of the last five. The injury to Saquon Barkely is still being felt. Ronald Jones II has been left to fill that void. Kyle hasn’t really found another RB. He’s looked to the past and picked up Frank Gore and Adrian Peterson, but they haven’t produced that well. The Dak Prescott injury has rippled a bit into Amari Cooper’s production. Cooper found some success this week with 10 fantasy points and the most since Andy Dalton went down. Calvin Ridley and Tevin Coleman were both hurt and didn’t play. Maybe Kyle forgot to set his lineup? There wasn’t much help on the bench and he did play the highest scoring team. Nice week to “forget”. Deshaun Watson has been the better QB for Kyle. Lamar Jackson seems to have regressed a bit… maybe for a late season push?? Still, despite playing two injured players, Kyle wasn’t the lowest scoring team...
 
 
 | W   |   | L    |    |
@@ -59,7 +59,7 @@ Matt is the fifth team at 5 - 4. Smart waiver wire pickups and team management h
 **Catch 22 - Eugene**\
 **147.72 Points**\
 **Best Player: Kyler Murray QB - 37.92 Points**\
-Second time this season huh?\
+Third time this season huh?\
 Christan McCaffrey had you waiting but came back in a big way\
 McCaffrey had 151 yards from scrimmage, 10 catches, one rushing and one receiving touchdown… was this guy even injured??\
 DK Metcalf is a beast out there (go hawks) with his fourth 100+ yard receiving game\
