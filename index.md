@@ -25,6 +25,8 @@ Stay tuned, always happy to hear what you guys think.
 
 ### [Week 8: Forget Club 4 - 2, Club .500 Babyyyy](./2020_writeups/2020_week8_writeup.md)
 
+### [Week 9: Playoff Hopes Begin to Dwindle](./2020_writeups/2020_week9_writeup.md)
+
 <br>
 <br>
 <br>
@@ -39,8 +41,8 @@ Stay tuned, always happy to hear what you guys think.
 |    GM     | # Scoring Champion | # Got Roasted |
 |:---------:|:------------------:|:-------------:|
 | Kai       |                    |               |
-| Andrew    |         2          |               |
-| Eugene    |         2          |               |
+| Andrew    |         2          |       1       |
+| Eugene    |         3          |               |
 | Mike      |         1          |               |
 | Junghwan  |                    |       1       |
 | Matt      |                    |               |
