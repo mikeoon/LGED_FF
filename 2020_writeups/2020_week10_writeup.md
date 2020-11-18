@@ -103,4 +103,4 @@ So for that, we thank you.
 [Week 8](./2020_week9_writeup.md)
 
 
-[Week 10](./2020_week11_writeup.md)
+[Week 11](./2020_week11_writeup.md)
