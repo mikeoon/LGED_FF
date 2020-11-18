@@ -27,6 +27,8 @@ Stay tuned, always happy to hear what you guys think.
 
 ### [Week 9: Playoff Hopes Begin to Dwindle](./2020_writeups/2020_week9_writeup.md)
 
+### [Week 10:Outlandish Playoff Scenarios Begin to Fill GM's Heads](./2020_writeups/2020_week10_writeup.md)
+
 <br>
 <br>
 <br>
@@ -46,10 +48,10 @@ Stay tuned, always happy to hear what you guys think.
 | Mike      |         1          |               |
 | Junghwan  |                    |       1       |
 | Matt      |                    |               |
-| Anil      |         1          |               |
+| Anil      |         1          |       1       |
 | Miles     |                    |       1       |
 | Danny     |         1          |               |
-| Connor    |         1          |       2       |
+| Connor    |         2          |       2       |
 | Kyle      |                    |       1       |
 | Zach      |                    |       3       |
 
