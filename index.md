@@ -27,7 +27,7 @@ Stay tuned, always happy to hear what you guys think.
 
 ### [Week 9: Playoff Hopes Begin to Dwindle](./2020_writeups/2020_week9_writeup.md)
 
-### [Week 10:Outlandish Playoff Scenarios Begin to Fill GM's Heads](./2020_writeups/2020_week10_writeup.md)
+### [Week 10: Outlandish Playoff Scenarios Begin to Fill GM's Heads](./2020_writeups/2020_week10_writeup.md)
 
 <br>
 <br>
