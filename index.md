@@ -29,6 +29,10 @@ Stay tuned, always happy to hear what you guys think.
 
 ### [Week 10: Outlandish Playoff Scenarios Begin to Fill GM's Heads](./2020_writeups/2020_week10_writeup.md)
 
+### Week 11: - Turkey Time Bye
+
+### [Week 12: The Regular Season Dust Begins to Settle](./2020_writeups/2020_week12_writeup.md)
+
 <br>
 <br>
 <br>
@@ -43,19 +47,19 @@ Stay tuned, always happy to hear what you guys think.
 |    GM     | # Scoring Champion | # Got Roasted |
 |:---------:|:------------------:|:-------------:|
 | Kai       |                    |               |
-| Andrew    |         2          |       1       |
+| Andrew    |         3          |       1       |
 | Eugene    |         3          |               |
 | Mike      |         1          |               |
-| Junghwan  |                    |       1       |
+| Junghwan  |         1          |       1       |
 | Matt      |                    |               |
 | Anil      |         1          |       1       |
 | Miles     |                    |       1       |
 | Danny     |         1          |               |
 | Connor    |         2          |       2       |
 | Kyle      |                    |       1       |
-| Zach      |                    |       3       |
+| Zach      |                    |       5       |
 
 |Season Record Holders|||
 |:-----------:|:------------------:|:--------------|
 |Highest Champ|       Andrew       |     153.5     |
-|Lowest  Champ|      Connor        |     59.04     |
+|Lowest  Champ|        Zach        |     51.52     |
