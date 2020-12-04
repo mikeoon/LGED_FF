@@ -6,10 +6,10 @@ I hope everyone had a good Thanksgiving break and are already gearing up for the
 
 With the final week of the fantasy regular season next week, week 12 always brings closely watched matchups and constant refreshes of the ESPN Fantasy app.
 
- A few notes on week 13:
-Games will begin on Sunday, 12/6
-There are two games on Monday 12/7
-The last game is on Tuesday 12/8
+A few notes on week 13:
+- Games will begin on Sunday, 12/6
+- There are two games on Monday 12/7
+- The last game is on Tuesday 12/8
 
 **Remember** Tie breaker for the standings and playoffs is points for.
 
