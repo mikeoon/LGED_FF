@@ -8,12 +8,6 @@ Check out past season writeups here:
 <br>
 <br>
 
-![21-22_flyer](./media/s21-22_flyer.JPG)
-
-<br>
-<br>
-
-
 
 ## 2021-2022 LGED: Season 4 - Writeups
 
