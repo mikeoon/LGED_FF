@@ -3,6 +3,7 @@ We are back for LGED's 4th season. Normal shenanigans, always happy to include m
 
 Check out past season writeups here:
 <br>
+<br>
 **[2020-2021 LGED: Season 3](./2020_archive_page.md)**
 
 <br>
