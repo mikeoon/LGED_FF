@@ -12,6 +12,8 @@ Check out past season writeups here:
 ## 2021-2022 LGED: Season 4 - Writeups
 
 <br>
+ - COMING SOON
+
 <br>
 <br>
 <br>
