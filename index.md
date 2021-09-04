@@ -1,7 +1,8 @@
-# ![LGED Logo](./media/21-22_lged_logo.png)
-Welcome, Fellow Degenerate 
+# Welcome, Fellow Degenerate
+We are back for LGED's 4th season. Normal shenanigans, always happy to include more stuff on the website.
 
-![inline test](./media/21-22_lged_logo.png)
+Check out past season writeups here:
+**[2020-2021 LGED: Season 3](./2020_archive_page.md)**
 
 
 <br>
@@ -9,17 +10,13 @@ Welcome, Fellow Degenerate
 
 
 
-## 2021 LGED Season 4: Writeups
+## 2021-2022 LGED: Season 4 - Writeups
 
 <br>
 <br>
 <br>
 <br>
 <br>
-
-
-### Past Season Writeups
-**[TEST ARCHIVE PAGE](./2020_archive_page.md)**
 
 
 
@@ -45,3 +42,6 @@ Welcome, Fellow Degenerate
 |:-----------:|:------------------:|:--------------|
 |Highest Champ|                    |               |
 |Lowest  Champ|                    |               |
+
+
+![inline test](./media/21-22_lged_logo.png)
