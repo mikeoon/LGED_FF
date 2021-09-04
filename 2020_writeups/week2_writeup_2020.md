@@ -75,7 +75,7 @@ So for that, we thank you
 ![](../media/Earl_IMG_3905.jpg)
 
 
-[HOME](../index.md)
+[Back to Archive](../2020_archive_page.md)
 
 
 [Week 1](./week1_writeup_2020.md)
