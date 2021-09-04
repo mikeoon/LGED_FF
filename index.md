@@ -1,8 +1,8 @@
-# Welcome, Fellow Degenerate ![title test](../media/21-22_lged_logo.png)
+# Welcome, Fellow Degenerate ![title test](./media/21-22_lged_logo.png)
 Made this page so that we can create a more custom experience for our league. In the future, I hope to add in more league based stats and leaderboards.
 
 Stay tuned, always happy to hear what you guys think.
-![inline test](../media/21-22_lged_logo.png)
+![inline test](./media/21-22_lged_logo.png)
 
 
 <br>
