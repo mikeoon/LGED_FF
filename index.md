@@ -7,6 +7,9 @@ Stay tuned, always happy to hear what you guys think.
 <br>
 <br>
 
+**[TEST ARCHIVE PAGE](./2020_archive_page.md)**
+
+
 
 ## 2020 LGED Season 3: Writeups
 ### [Week 1: COVID Ain't Stopping Us](./2020_writeups/week1_writeup_2020.md)
