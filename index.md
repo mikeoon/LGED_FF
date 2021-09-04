@@ -1,4 +1,4 @@
-# Welcome, fellow degenerate
+# ![](../media/Earl_IMG_3905.jpg)
 Made this page so that we can create a more custom experience for our league. In the future, I hope to add in more league based stats and leaderboards.
 
 Stay tuned, always happy to hear what you guys think.
