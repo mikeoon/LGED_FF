@@ -6,6 +6,9 @@ Check out past season writeups here:
 **[2020-2021 LGED: Season 3](./2020_archive_page.md)**
 
 
+
+![21-22_flyer](./media/s21-22_flyer.JPG)
+
 <br>
 <br>
 
@@ -45,4 +48,4 @@ Check out past season writeups here:
 |Lowest  Champ|                    |               |
 
 
-![inline test](./media/21-22_lged_logo.png)
+![LGED Logo](./media/21-22_lged_logo.png)
