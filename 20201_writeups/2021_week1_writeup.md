@@ -10,8 +10,8 @@ An exciting week 1 is in the books. We had 2 games that went down to the wire du
 
 Let’s get into it.
 
-</br>
-</br>
+<br>
+<br>
 
 
 | W  | | L   |   |
