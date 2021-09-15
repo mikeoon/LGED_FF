@@ -3,7 +3,8 @@
 ### Whaddup
 Welcome back Degenerates. The 21-22 season has finally begun. We have stadiums at full capacity, 17 regular season games and, as always, someone getting roasted every week.
 
-This is a Public Service Announcement:
+**This is a Public Service Announcement:**
+<br>
 If you haven’t given me your buy-in yet, do so ASAP. You know who you are.
 
 An exciting week 1 is in the books. We had 2 games that went down to the wire during Monday Night Football. Outside of that, we saw winning teams this week win by an average of 37.87 points. Hopefully this is not foreshadowing the rest of the season.
