@@ -14,8 +14,7 @@ Check out past season writeups here:
 
 <br>
 
- **[Week 1: COVID Ain't Stopping Us](./2021_writeups/2021_week1_writeup.md)**
- **[2020-2021 LGED: Season 3](./2020_archive_page.md)**
+ - **[Week 1: COVID Ain't Stopping Us](./2021_writeups/2021_week1_writeup.md)**
 
 <br>
 <br>
