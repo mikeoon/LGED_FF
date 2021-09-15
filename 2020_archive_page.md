@@ -1,6 +1,6 @@
 # 2020 - 2021 LGED Season 3 Archive
 
-[HOME](../index.md)
+[HOME](./index.md)
 
 ## 2020 LGED Season 3: Writeups
 ### [Week 1: COVID Ain't Stopping Us](./2020_writeups/week1_writeup_2020.md)
@@ -58,4 +58,4 @@
 |Highest Champ|       Andrew       |     153.5     |
 |Lowest  Champ|        Zach        |     51.52     |
 
-[HOME](../index.md)
+[HOME](./index.md)
