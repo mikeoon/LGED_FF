@@ -13,7 +13,7 @@ Check out past season writeups here:
 ## 2021-2022 LGED: Season 4 - Writeups
 
 <br>
- - COMING SOON
+ - **[Week 1: COVID Ain't Stopping Us](./2021_writeups/2021_week1_writeup.md)**
 
 <br>
 <br>
@@ -28,7 +28,7 @@ Check out past season writeups here:
 |    GM     | # Scoring Champion | # Got Roasted |
 |:---------:|:------------------:|:-------------:|
 | Kai       |                    |               |
-| Andrew    |                    |               |
+| Andrew    |         1          |               |
 | Eugene    |                    |               |
 | Mike      |                    |               |
 | Junghwan  |                    |               |
@@ -36,14 +36,14 @@ Check out past season writeups here:
 | Anil      |                    |               |
 | Miles     |                    |               |
 | Danny     |                    |               |
-| Connor    |                    |               |
+| Connor    |                    |       1       |
 | Kyle      |                    |               |
 | Zach      |                    |               |
 
 |Season Record Holders|||
 |:-----------:|:------------------:|:--------------|
-|Highest Champ|                    |               |
-|Lowest  Champ|                    |               |
+|Highest Champ|      Andrew        |    147.46     |
+|Lowest  Champ|      Connor        |     61.22     |
 
 
 ![LGED Logo](./media/21-22_lged_logo.png)
