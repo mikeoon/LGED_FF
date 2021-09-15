@@ -13,7 +13,7 @@ Check out past season writeups here:
 ## 2021-2022 LGED: Season 4 - Writeups
 
 <br>
- **- [Week 1: COVID Ain't Stopping Us](./2021_writeups/2021_week1_writeup.md)**
+ **[Week 1: COVID Ain't Stopping Us](./2021_writeups/2021_week1_writeup.md)**
 
 <br>
 <br>
