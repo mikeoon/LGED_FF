@@ -14,7 +14,7 @@ Check out past season writeups here:
 
 <br>
 
- - **[Week 1: COVID Ain't Stopping Us](./2021_writeups/2021_week1_writeup.md)**
+ - **[Week 1: COVID Ain't Stopping Us](./20201_writeups/2021_week1_writeup.md)**
 
 <br>
 <br>
