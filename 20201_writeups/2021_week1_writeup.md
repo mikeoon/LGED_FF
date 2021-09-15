@@ -84,7 +84,7 @@ Noah Fant returns to EBDB BnB with a solid outing with 6 catches for 62 yards\
 Fant was one of 2 players on Andrew’s team to not score 10+points\
 The Seahawks fan in me hopes DK Metcalf is just warming up… fantasy side of me hopes he doesn’t\
 Andrew was also last season’s week 1 highest scoring champion\
-I’m hoping this season, he wins it only once\
+I’m hoping this season, he wins it only once
 
 <br>
 <br>
