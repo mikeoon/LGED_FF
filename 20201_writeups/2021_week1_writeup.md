@@ -1,4 +1,4 @@
-# LGED 21-22 Week-1 Recap: Let Season 4 of LGED Begin
+# Week-1 Recap: Let Season 4 of LGED Begin
 
 ### Whaddup
 Welcome back Degenerates. The 21-22 season has finally begun. We have stadiums at full capacity, 17 regular season games and, as always, someone getting roasted every week.
