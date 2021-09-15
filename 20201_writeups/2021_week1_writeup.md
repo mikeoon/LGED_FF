@@ -20,7 +20,7 @@ Let’s get into it.
 
 All I can say for Zach’s team is Go Hawks. He may not have DK Metcalf this year but he’s got the rest of the flock. Zach and the Seahawks offense hand Anil a week 1 loss. Russell Wilson, Chris Carson and Tyler Lockett combined gave Zach 62.26 points. Fun fact about Zach’s team: He only has 1 AFC player, Tyler Boyd, on his entire team. He’s repping the NFC hard. Ohh it goes even further, his starting lineup this week consisted of only NFC East and West players. Zach only has 2 players on his entire team that aren’t in those divisions. DeAndre Hopkins doing Nuke things with 83 yards and 2 touchdowns with just 6 catches. A strong week 1 for Zach after a not so great season last year. Anil let OJ draft a lot of his team this year. You may have seen OJ in the draft room as “Auto Draft”. OJ did well to put the team together. Brandon Aiyuk was high on pre-draft rankings but was not targeted in a high scoring showing from the 49ers. Allen Robinson II couldn’t really get anything going and had just 35 yards. Austin Ekeler did end up suiting up and found the endzone in an otherwise quiet performance. Keenan Allen doing Keenan Allen things with 9 catches on 13 targets for 100 yards. The shining star this week for Anil was T.J. Hockenson who had the most amazing transformation from this season to last:
 
-![](../media/tj-hockeson-transform.gif)
+![](../media/tj-hockeson_transform.gif)
 
 Hockenson went off for 21.7 points. OJ drafted a solid team for Anil. It’s early but Anil and OJ will need to work together to bolster the squad.
 
