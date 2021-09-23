@@ -10,6 +10,9 @@ The scoring was up from last week and the winning margins were a bit lower. Thin
 
 On to the writeup
 
+<br>
+<br>
+
 
 | W  | | L   |   |
 | ------------------------ |:-------------:| --------------------|:----------:|
