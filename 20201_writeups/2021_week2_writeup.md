@@ -108,7 +108,7 @@ If I were you, I would just tell people that you have been cursed by Monday Nigh
 Otherwise people might just wonder how you drafted such a mediocre team\
 Your team hasn’t one a game yet\
 However, you remind us that a slow start early in the season doesn’t mean it’s over (usually)\
-So for that, we thank you.\
+So for that, we thank you.
 
 <br>
 <br>
