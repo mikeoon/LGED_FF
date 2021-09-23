@@ -6,16 +6,7 @@ Week 2 is in the books and Monday Night Football hates and loves some of you in 
 By the way, Kyler Murray is wizard. Look at this throw and catch:
 [Watch Carefully](https://youtu.be/2PftSjuqbuc?t=198)
 
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-
 The scoring was up from last week and the winning margins were a bit lower. Things are just getting started.
-
-
-
 
 On to the writeup
 
@@ -118,7 +109,7 @@ So for that, we thank you.\
 
 [Week 1](./2021_week1_writeup.md)
 
-[Week 2](./2021_week2_writeup.md)
+[Week 3]()
 
 
 
