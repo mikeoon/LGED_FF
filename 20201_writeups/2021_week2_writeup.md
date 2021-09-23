@@ -10,7 +10,6 @@ By the way, Kyler Murray is wizard. Look at this throw and catch:
   <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-
 The scoring was up from last week and the winning margins were a bit lower. Things are just getting started.
 
 
