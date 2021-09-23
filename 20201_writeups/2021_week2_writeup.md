@@ -1,4 +1,4 @@
-# LGED 21-22 Week-2 Recap: MNF Keeps Handing Out L’s
+# Week-2 Recap: MNF Keeps Handing Out L’s
 
 ### Whaddup
 Week 2 is in the books and Monday Night Football hates and loves some of you in the league. We saw 2 more teams get handed an L thanks to MNF. Not only that, but MNF also crowned the lowest scoring team.
