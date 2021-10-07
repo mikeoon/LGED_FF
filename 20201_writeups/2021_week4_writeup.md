@@ -4,9 +4,9 @@
 
 We are back after an unplanned break thanks to the Mariners. Heart breaking, but also so familiar. A couple of us went to the game on Saturday. You could call it our playoff moment.
 
-This week in the LGED gave some clarity on who's who in the league. We have 1 undefeated team with 2 winless teams. The front runners and the teams carrying the rear seem to be revealing themselves... Probably not though. It’s fantasy football and still very early. Especially with 1 extra regular season game this year.
-
 ![](../media/BB_son.gif)
+
+This week in the LGED gave some clarity on who's who in the league. We have 1 undefeated team with 2 winless teams. The front runners and the teams carrying the rear seem to be revealing themselves... Probably not though. It’s fantasy football and still very early. Especially with 1 extra regular season game this year.
 
 
 Enough talk, let's dive in.
