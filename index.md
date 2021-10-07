@@ -16,6 +16,8 @@ Check out past season writeups here:
 
  - **[Week 1: Let Season 4 of LGED Begin](./20201_writeups/2021_week1_writeup.md)**
  - **[Week 2: MNF Keeps Handing out Ls](./20201_writeups/2021_week2_writeup.md)**
+ - **Week 3: BYE - Go M's**
+ - **[Week 4:Front, Middle and Back of the Pack](./20201_writeups/2021_week4_writeup.md)**
 
 <br>
 <br>
@@ -33,13 +35,13 @@ Check out past season writeups here:
 | Andrew    |         1          |               |
 | Eugene    |                    |       1       |
 | Mike      |         1          |               |
-| Junghwan  |                    |               |
-| Matt      |                    |               |
+| Junghwan  |                    |       1       |
+| Matt      |                    |       1       |
 | Anil      |                    |               |
 | Miles     |                    |               |
 | Danny     |                    |               |
 | Connor    |                    |       1       |
-| Kyle      |                    |               |
+| Kyle      |         2          |               |
 | Zach      |                    |               |
 
 |Season Record Holders|||
