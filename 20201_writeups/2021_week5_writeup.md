@@ -123,9 +123,9 @@ So for that, we thank you.
 [HOME](../index.md)
 
 
-[Week 1](./2021_week4_writeup.md)
+[Week 4](./2021_week4_writeup.md)
 
-[Week 2](./2021_week6_writeup.md)
+[Week 6](./2021_week6_writeup.md)
 
 
 
