@@ -18,6 +18,7 @@ Check out past season writeups here:
  - **[Week 2: MNF Keeps Handing out Ls](./20201_writeups/2021_week2_writeup.md)**
  - **Week 3: BYE - Go M's**
  - **[Week 4: Front, Middle and Back of the Pack](./20201_writeups/2021_week4_writeup.md)**
+ - **[Week 5: A Power House Division Emerges?](./20201_writeups/2021_week5_writeup.md)**
 
 <br>
 <br>
@@ -33,10 +34,10 @@ Check out past season writeups here:
 |:---------:|:------------------:|:-------------:|
 | Kai       |                    |               |
 | Andrew    |         1          |               |
-| Eugene    |                    |       1       |
+| Eugene    |                    |       2       |
 | Mike      |         1          |               |
 | Junghwan  |                    |       1       |
-| Matt      |                    |       1       |
+| Matt      |         1          |       1       |
 | Anil      |                    |               |
 | Miles     |                    |               |
 | Danny     |                    |               |
@@ -46,7 +47,7 @@ Check out past season writeups here:
 
 |Season Record Holders|||
 |:-----------:|:------------------:|:--------------|
-|Highest Champ|      Andrew        |    147.46     |
+|Highest Champ|      Matt          |    158.82     |
 |Lowest  Champ|      Connor        |     61.22     |
 
 
