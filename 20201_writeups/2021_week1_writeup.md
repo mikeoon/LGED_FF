@@ -30,7 +30,7 @@ Hockenson went off for 21.7 points. OJ drafted a solid team for Anil. It’s ear
 
 | W  | | L   |   |
 | ------------------------ |:-------------:| --------------------|:----------:|
-|     **EBDB BnB**      |**147.46**     |  Smokin’ Herbs |   114.48  |
+|     **EBDB BnB**      |**147.46**     |  Smokin’ Herbs 🚬 |   114.48  |
 
 He didn’t skip a beat. EBEBEBEB EEBEBEB (Andrew’s team) is your highest scoring team this week. Tied for last season’s highest scoring champion showed up in week 1. More on Andrew’s high flying performance below. It’s always tough to have a solid week and end up playing the highest scoring team of the week. Matt’s team really didn’t do anything wrong. A lot of his players who crushed it last season might just be warming up? Justin Herbert didn’t lock into his Offensive rookie of the year form and put up just 13.38 points. Dalvin Cook wasn’t cookin like was last year but did manage to find the endzone and record 104 yards from scrimmage. George Kittle had an alright performance but you hope he scores a touchdown to put the cherry on top of his 78 yard game. All the announcers during Monday Night Football could talk about was Josh Jacobs’ turf toe. It may have slowed Jacobs’ yardage but he managed to score 2 touchdowns. Corey Davis looking good in Jets green with 24.2 points. If this is a somewhat down week for Matt’s team, look out.
 
