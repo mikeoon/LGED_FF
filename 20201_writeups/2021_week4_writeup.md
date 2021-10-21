@@ -70,7 +70,7 @@ Connor has changed his recipe and the fudge is solid now. Connor and the Fudge P
 <br>
 
 ## Highest Scoring Team
-**Carroll’s A Coward**\
+**Carroll’s A Coward - Kyle**\
 **137.72 Points**\
 **Best Player: Patrick Mahomes QB - 31.72 Points**\
 Okay okay, we see you\
@@ -88,7 +88,7 @@ The last team to start the season 4 and 0 went on to win the league… I hope I 
 <br>
 
 ## Lowest Scoring Team
-**OJ is my GM**\
+**OJ is my GM - Anil**\
 **67.72 Points**\
 **Best Player: Austin Ekeler RB - 28.0 Points**\
 Speaking of undefeated, your team is winless\
@@ -118,6 +118,6 @@ So for that, we thank you.
 [HOME](../index.md)
 
 
-[Week 4](./2021_week4_writeup.md)
+[Week 3](./2021_week3_writeup.md)
 
 [Week 5](./2021_week5_writeup.md)
