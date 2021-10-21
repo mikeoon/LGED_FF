@@ -27,7 +27,7 @@ Eugene and his team still haven't gotten their beauty rest and remains winless. 
 
 | W  | | L   |   |
 | ------------------------ |:-------------:| --------------------|:----------:|
-|     **Smokin’ Herbs**      |**158.82**     | Golladay Inn Express|   103.52  |
+|     **Smokin’ Herbs 🚬**      |**158.82**     | Golladay Inn Express|   103.52  |
 
 Matt’s team comes up big in week 5 and is the highest scoring team this week. Him and his team have also set the record for highest scoring week so far. More on Matt’s big week below. Back to back losses for Danny as he now sits 3 - 2. In both losses, Danny’s opponent scored 135+ points. Strange week for his team. His main starters (QB, RB, WR) all scored 10+ points with 2 of them scoring 20+. However, the lesser scoring starting slots (TE, FLEX, K, D/ST) only combined for 8.5. Kenny Golladay did get hurt. I guess Golladay couldn’t handle being the face of the Inn. Jalen Hurts continues to impress. He’s my main talking point when I write on Danny’s team for a reason. Hurts now sits at the number 6 QB in fantasy and has never dipped below 20 points. That’s some amazing value in the 11th round of the draft. 
 
@@ -78,7 +78,7 @@ The closest matchup this week. Anil and his team get their first win of the seas
 <br>
 
 ## Highest Scoring Team
-**Smokin’ Herbs - Matt**\
+**Smokin’ Herbs 🚬 - Matt**\
 **158.82 Points**\
 **Best Player: Justin Herbert QB - 42.82 Points**\
 Damn, maybe I was wrong to call out the ESPN pundits for raving about Justin Herbert\
