@@ -126,6 +126,6 @@ So for that, we thank you.
 [HOME](../index.md)
 
 
-[Week 1](./2021_week5_writeup.md)
+[Week 5](./2021_week5_writeup.md)
 
-[Week 2](./2021_week7_writeup.md)
+[Week 7](./2021_week7_writeup.md)
