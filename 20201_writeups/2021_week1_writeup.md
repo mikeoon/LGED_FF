@@ -74,7 +74,7 @@ Monday Night Football claimed another victim week 1. Danny saw a 1% ESPN Fantasy
 <br>
 
 ## Highest Scoring Team
-**EBDB BnB**\
+**EBDB BnB - Andrew**\
 **147.46 Points**\
 **Best Player: Amari Cooper WR - 32.4 Points**\
 Starting off the highest scoring team with 147.46 points isn’t bad\
@@ -91,7 +91,7 @@ I’m hoping this season, he wins it only once
 <br>
 
 ## Lowest Scoring Team
-**Fudge Packers**\
+**Fudge Packers - Connor**\
 **61.22 Points**\
 **Best Player: Adam Thielen WR - 25.7 Points**\
 Holy… 61.22 points in week 1 is rough\
