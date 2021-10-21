@@ -6,7 +6,7 @@ Bye weeks are here. That’s it. I’m sure all you GM’s are aware.
 
 One winless team remains while an undefeated team records its first loss. A new team now sits at the top of the league (spoilers: it's my team, let’s go Yoon Pooned). 
 
-Enough about my team the league.
+Enough about ~~my team~~ the league.
 
 Onto the matchups:
 
@@ -47,7 +47,11 @@ More on Connor’s high scoring affair below. Eugene’s second best week this s
 | ------------------------ |:-------------:| --------------------|:----------:|
 |     **Yoon Pooned**      |**127.68**     | Kingdom DooDoo |   117.02   |
 
-Battle of some heavy weights. ![](../media/ben_stiller_heavyweights.gif)  Miles and my team both came into this week’s match up at 4 - 1. It was my team that came through round 1 as our teams will meet again in week 12. All my starting RBs through the last 5 weeks were all out this week due to injury and byes. James Connor and David Johnson combine for 92 yards from scrimmage and 1 fumble. This season though, it’s been the trio of receivers my team has that has been carrying. Cooper Kupp, Tyreek Hill, and CeeDee Lamb are WR1, WR2 and WR8 respectively. All three had 9 receptions each this week. Together, they combined for 355 yards and 5 touchdowns. Even though the Bills didn’t go for a game tying field goal on Monday Night Football, Kicker Tyler Bass still finished with 13 points. Regardless, if Yoon Pooned 3 headed WR monster continues to produce, I’m hoping for 10 more dollars at least. For Miles’ team, Josh Allen and Derrick Henry did their best to claw back from a 60.98 deficit. They got damn near close. If it wasn’t for Tyler Bass, Yoon Pooned would have loss. King Henry Continues to dominate this season. This was his third game with 3 touchdowns. Henry has only dipped below 100 rushing yards once. Josh Allen has been great so far. This week Allen picks up where he left off last week with another 3 passing touchdown game. The rest of Kingdom DooDoo slipped a bit. Mike Williams along with the rest of the Chargers offense didn’t really get anything going. Chase Edmonds’ shoulder must be really bothering him the last two weeks as he’s only combined for 9.4 fantasy points. Darren Waller unfortunately hit his low in targets and put up mediocre numbers. D’Andre Swift has been great though and sits in the top 10 for RBs in fantasy. A competitive matchup for 2 top teams so far.
+Battle of some heavy weights. 
+
+![](../media/ben_stiller_heavyweights.gif)  
+
+Miles and my team both came into this week’s match up at 4 - 1. It was my team that came through round 1 as our teams will meet again in week 12. All my starting RBs through the last 5 weeks were all out this week due to injury and byes. James Connor and David Johnson combine for 92 yards from scrimmage and 1 fumble. This season though, it’s been the trio of receivers my team has that has been carrying. Cooper Kupp, Tyreek Hill, and CeeDee Lamb are WR1, WR2 and WR8 respectively. All three had 9 receptions each this week. Together, they combined for 355 yards and 5 touchdowns. Even though the Bills didn’t go for a game tying field goal on Monday Night Football, Kicker Tyler Bass still finished with 13 points. Regardless, if Yoon Pooned 3 headed WR monster continues to produce, I’m hoping for 10 more dollars at least. For Miles’ team, Josh Allen and Derrick Henry did their best to claw back from a 60.98 deficit. They got damn near close. If it wasn’t for Tyler Bass, Yoon Pooned would have loss. King Henry Continues to dominate this season. This was his third game with 3 touchdowns. Henry has only dipped below 100 rushing yards once. Josh Allen has been great so far. This week Allen picks up where he left off last week with another 3 passing touchdown game. The rest of Kingdom DooDoo slipped a bit. Mike Williams along with the rest of the Chargers offense didn’t really get anything going. Chase Edmonds’ shoulder must be really bothering him the last two weeks as he’s only combined for 9.4 fantasy points. Darren Waller unfortunately hit his low in targets and put up mediocre numbers. D’Andre Swift has been great though and sits in the top 10 for RBs in fantasy. A competitive matchup for 2 top teams so far.
 
 <br>
 <br>
@@ -72,7 +76,7 @@ Called it last week, Junghwan was bound to catch a break after that onslaught of
 
 | W  | | L   |   |
 | ------------------------ |:-------------:| --------------------|:----------:|
-|     **DK’s Left Calf**      |**131.58**     | Smokin’ Herbs |   96.7   |
+|     **DK’s Left Calf**      |**131.58**     | Smokin’ Herbs :smoking: |   96.7   |
 
 Another NFC only starting roster gets Zach the win over Matt. Zach’s team was powered by strong RB play and supplemented with great defense and special teams. Almost all of Zach’s RBs reached over 100 yards from scrimmage. Alex Collins was the only one that didn’t because he rushed for 101 but recorded -3 receiving yards. Collins did however score a touchdown unlike his fellow DK’s Left Calf teammate Ezekiel Elliot. Darrell Henderson Jr. was the star of the trio with his best performance of the season so far with 107 yards from scrimmage, 1 rushing touchdown and 1 receiving touchdown. DeAndre Hopkins puts up his second 2 touchdown game. While Tyler Lockett isn’t loving Geno Smith so far (go hawks, in Geno we trust always). A great win considering Zach’s bench had only 1 player that actually played. The others? Byes and injuries. For Matt, the return of Dalvin Cook wasn’t enough to get the win this week. Cook rushed for a season high 140 yards and a touchdown. It was Cook’s best fantasy performance so far. Myles Gaskin on the other hand had less than a tenth of his points from last week (2.4 this week). Matt’s WRs all did okay and combined for 34.6 points. The Bills D/ST put up 0. Justin Herbert decided to take a break this week and it showed with just 11.0 fantasy points. Tough matchup though as Zach was the second highest scoring team this week. You might say this was Zach’s revenge game for Matt picking up Antonio Brown off the waivers. Zach dropped him back in week 3. I would say, both teams benefited there.
 
