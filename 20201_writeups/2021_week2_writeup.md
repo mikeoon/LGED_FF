@@ -33,7 +33,7 @@ On the other hand, Andrew’s WRs didn’t have as good of a week. DK Metcalf an
 
 | W  | | L   |   |
 | :----------------------: |:-------------:| :------------------:|:----------:|
-|     **Yoon Pooned**      |**135.76**     | Smokin’ Herbs |   102.2   |
+|     **Yoon Pooned**      |**135.76**     | Smokin’ Herbs 🚬 |   102.2   |
 
 Both teams in this match were looking for their first win. My team not only snags the win, but also the highest scoring team of the week. More on my team’s performance below. For Matt, 2nd round pick Josh Jacobs sat out with what I am guessing is that turf toe they kept commenting about last week. Myles Gaskin (Go Dawgs) tried his best to be the next man up but only managed 6.6 points. The Dolphins did get shut out by the Bills and were trying to catch up all game. Dalvin Cook did break over 100 yards though. It took him the 2nd game to do it. George Kittle did manage to catch all 4 of his targets but only for 17 yards. Corey Davis suffered a bit in fantasy production behind Zach Wilson’s awful day. Davis had just 2 catches for 8 yards. Diontae Johnson and Ja’Marr Chase have been good so far. Both putting up 12+ points in the first 2 games of the season. Despite Matt’s higher draft picks sitting out or under performing, he’s finding value in his mid round picks which is a good sign.
 
