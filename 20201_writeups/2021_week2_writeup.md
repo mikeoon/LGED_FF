@@ -77,7 +77,7 @@ Kyle’s team last week gets the win over the lowest scoring team. This week, th
 <br>
 
 ## Highest Scoring Team
-**Yoon Pooned**\
+**Yoon Pooned - Mike**\
 **135.76 Points**\
 **Best Player: Lamar Jackon QB - 32.26 Points**\
 Lamar Jackson, I never lost faith\
@@ -93,7 +93,7 @@ Out of 3 seasons, I am definitely in the negative column\
 <br>
 
 ## Lowest Scoring Team
-**Catch 22**\
+**Catch 22 - Eugene**\
 **72.88 Points**\
 **Best Player: Christian McCaffery RB - 22.2 Points**\
 Last week MNF hands you the L\
