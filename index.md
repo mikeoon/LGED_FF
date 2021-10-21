@@ -19,7 +19,8 @@ Check out past season writeups here:
  - **Week 3: BYE - Go M's**
  - **[Week 4: Front, Middle and Back of the Pack](./20201_writeups/2021_week4_writeup.md)**
  - **[Week 5: A Power House Division Emerges?](./20201_writeups/2021_week5_writeup.md)**
-
+ - **[Week 6: Bye Weeks Begin, A Winless Team ](./20201_writeups/2021_week6_writeup.md)**
+ 
 <br>
 <br>
 <br>
@@ -37,11 +38,11 @@ Check out past season writeups here:
 | Eugene    |                    |       2       |
 | Mike      |         1          |               |
 | Junghwan  |                    |       1       |
-| Matt      |         1          |       1       |
-| Anil      |                    |               |
+| Matt      |         1          |               |
+| Anil      |                    |       2       |
 | Miles     |                    |               |
 | Danny     |                    |               |
-| Connor    |                    |       1       |
+| Connor    |         1          |       1       |
 | Kyle      |         2          |               |
 | Zach      |                    |               |
 
