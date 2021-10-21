@@ -78,7 +78,7 @@ The closest matchup this week. Anil and his team get their first win of the seas
 <br>
 
 ## Highest Scoring Team
-**Smokin’ Herbs**\
+**Smokin’ Herbs - Matt**\
 **158.82 Points**\
 **Best Player: Justin Herbert QB - 42.82 Points**\
 Damn, maybe I was wrong to call out the ESPN pundits for raving about Justin Herbert\
@@ -95,7 +95,7 @@ Matt, you made the LGED proud that you didn’t listen to them
 <br>
 
 ## Lowest Scoring Team
-**Im Just ... Tired**\
+**Im Just ... Tired - Eugene**\
 **66.98 Points**\
 **Best Player: Dak Prescott QB - 20.68 Points**\
 You’re back\
