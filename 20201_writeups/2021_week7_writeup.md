@@ -4,6 +4,8 @@
 
 A low scoring output this week by the LGED. Teams are injured and the week 7 byes were no joke. A lot of teams couldn’t even start full rosters.
 
+![](../media/bye_spooky.gif)
+
 Whether it's poor drafting, questionable waiver pickups or you let OJ GM your team, it was brutal out there this week.
 
 We sit at the halfway point. A lot more regular season left. So get those waiver claims in, turn on those push notifications and on Sunday, refresh those ESPN apps constantly. It’s gonna be a good second half.
