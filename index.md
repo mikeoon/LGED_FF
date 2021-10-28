@@ -20,6 +20,7 @@ Check out past season writeups here:
  - **[Week 4: Front, Middle and Back of the Pack](./20201_writeups/2021_week4_writeup.md)**
  - **[Week 5: A Power House Division Emerges?](./20201_writeups/2021_week5_writeup.md)**
  - **[Week 6: Bye Weeks Begin, A Winless Team ](./20201_writeups/2021_week6_writeup.md)**
+ - **[Week 7: The Halfway Point Filled with Injuries and Byes](./20201_writeups/2021_week7_writeup.md)**
  
 <br>
 <br>
@@ -39,9 +40,9 @@ Check out past season writeups here:
 | Mike      |         1          |               |
 | Junghwan  |                    |       1       |
 | Matt      |         1          |               |
-| Anil      |                    |       2       |
+| Anil      |                    |       3       |
 | Miles     |                    |               |
-| Danny     |                    |               |
+| Danny     |         1          |               |
 | Connor    |         1          |       1       |
 | Kyle      |         2          |               |
 | Zach      |                    |               |
@@ -49,7 +50,7 @@ Check out past season writeups here:
 |Season Record Holders|||
 |:-----------:|:------------------:|:--------------|
 |Highest Champ|      Matt          |    158.82     |
-|Lowest  Champ|      Connor        |     61.22     |
+|Lowest  Champ|      Anil          |     58.30     |
 
 
 ![LGED Logo](./media/21-22_lged_logo.png)
