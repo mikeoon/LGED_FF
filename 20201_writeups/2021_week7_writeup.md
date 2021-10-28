@@ -48,7 +48,9 @@ Danny and the squad nab the highest scoring team title on Monday Night Football 
 | ------------------------ |:-------------:| --------------------|:----------:|
 |     **Poop AUTO**      |**113.94**     | OJ is my GM|   58.3  |
 
-The Poop AUTO skid is over, Kai ends the 4 game losing streak with a win against this week’s lowest scoring team, OJ is my GM. More on Anil’s record breaking low performance below. Kai’s team came to play this week. Except for Miles Sanders, he stayed at home (3.2 fantasy points this week). Mike Evans caught 3 touchdown passes in the first half and finished the game with 76 yards. Evans’ best game of the season so far. Travis Kelce seems to be just humming along. He’s getting the targets, just hasn’t scored a touchdown since week 5… before that week 2. Marquise Brown recorded a season high 14 targets but only caught 5 of them but did score a touchdown. Brown has had spurts of 2 games with 15+ points, then drops off for one game. Pretty crazy check his points below:
+The Poop AUTO skid is over, Kai ends the 4 game losing streak with a win against this week’s lowest scoring team, OJ is my GM. More on Anil’s record breaking low performance below. Kai’s team came to play this week. Except for Miles Sanders, he stayed at home (3.2 fantasy points this week). Mike Evans caught 3 touchdown passes in the first half and finished the game with 76 yards. Evans’ best game of the season so far. Travis Kelce seems to be just humming along. He’s getting the targets, just hasn’t scored a touchdown since week 5… before that week 2. Marquise Brown recorded a season high 14 targets but only caught 5 of them but did score a touchdown. Brown has had spurts of 2 games with 15+ points, then drops off for one game. 
+
+Pretty crazy check his points below:
 
 |Week| Points|
 |:------:|:--------:|
