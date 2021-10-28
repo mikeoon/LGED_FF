@@ -1,4 +1,4 @@
-# LGED 21-22 Week-7 Recap: The Halfway Point filled with Injuries and Byes
+# LGED 21-22 Week-7 Recap: The Halfway Point Filled with Injuries and Byes
 
 ### Whaddup
 
