@@ -79,7 +79,7 @@ Sort of called the loss for Connor last week, excited to see if he finishes 7 - 
  Here is the list of the top 10
 
 |Rank| Player| Career Passing TD Count|
-|:-----:|:--------:|:----------------------------------|
+|:-----:|:--------:|:----------------------------------:|
 |1     |   Tom Brady     |       602         |
 |2     |    Drew Brees       |     571         |
 |3     |    Peyton Manning        |     539         |
