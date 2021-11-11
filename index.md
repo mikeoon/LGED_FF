@@ -21,6 +21,8 @@ Check out past season writeups here:
  - **[Week 5: A Power House Division Emerges?](./20201_writeups/2021_week5_writeup.md)**
  - **[Week 6: Bye Weeks Begin, A Winless Team ](./20201_writeups/2021_week6_writeup.md)**
  - **[Week 7: The Halfway Point Filled with Injuries and Byes](./20201_writeups/2021_week7_writeup.md)**
+ - **Week 8: BYE**
+ - **[Week 9: We're Going Streaking!!!](./20201_writeups/2021_week9_writeup.md)**
  
 <br>
 <br>
@@ -35,22 +37,22 @@ Check out past season writeups here:
 |    GM     | # Scoring Champion | # Got Roasted |
 |:---------:|:------------------:|:-------------:|
 | Kai       |                    |               |
-| Andrew    |         1          |               |
+| Andrew    |         2          |               |
 | Eugene    |                    |       2       |
-| Mike      |         1          |               |
+| Mike      |         2          |               |
 | Junghwan  |                    |       1       |
 | Matt      |         1          |               |
 | Anil      |                    |       3       |
 | Miles     |                    |               |
 | Danny     |         1          |               |
-| Connor    |         1          |       1       |
-| Kyle      |         2          |               |
+| Connor    |         1          |       2       |
+| Kyle      |         2          |       1       |
 | Zach      |                    |               |
 
 |Season Record Holders|||
 |:-----------:|:------------------:|:--------------|
 |Highest Champ|      Matt          |    158.82     |
-|Lowest  Champ|      Anil          |     58.30     |
+|Lowest  Champ|      Kyle          |     40.30     |
 
 
 ![LGED Logo](./media/21-22_lged_logo.png)
