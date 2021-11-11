@@ -63,7 +63,7 @@ Danny and the Golladay Inn Express continue to roll. 4 straight wins for Danny a
 |1| Ryan Tannehill| 14.18| L|
 |2| Ryan Tannehill| 14.58| L |
 |3| Daniel Jones| 16.54| L |
-| **4** | **Daniel Jones** | **26.78**| W|
+| **4** | **Daniel Jones** | **26.78**| **W**|
 |5|Daniel Jones| 4.82|L|
 |6|Daniel Jones| 4.08|W|
 |7|Derek Carr| 19.02| L|
