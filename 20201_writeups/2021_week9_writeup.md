@@ -132,7 +132,7 @@ So for that, we thank you.
 [HOME](../index.md)
 
 
-[Week 8](./2021_week8_writeup.md)
+[Week 7](./2021_week7_writeup.md)
 
 [Week 10](./2021_week11_writeup.md)
 
