@@ -154,4 +154,4 @@ So for that, we thank you.
 
 [Week 6](./2021_week6_writeup.md)
 
-[Week 8](./2021_week8_writeup.md)
+[Week 9](./2021_week9_writeup.md)
