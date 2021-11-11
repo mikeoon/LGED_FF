@@ -58,6 +58,7 @@ We had the highest scoring team against the lowest scoring team. My team nabs th
 Danny and the Golladay Inn Express continue to roll. 4 straight wins for Danny as he hands Junghwan his 6th loss of the season. Danny now sits at 7 - 2 and on the top of the West division. Players like Alvin Kamara keep the Golladay Inn Express running in tip top shape. Kamara rushed for just his 3rd touchdown this season. He has been steady though averaging 17.8 points a game this season. With Christan McCaffrey out, Kamara may now be the RB king of any form of PPR. Michael Carter for the Jets has been on a reception spree himself. Week 7 and 8, Carter caught 8 and 9 targets respectively. This week though just 1 but still managed 86 yards from scrimmage. Justin Jefferson puts up exactly 15.5 fantasy points for the 2nd time this season. And of course, the writeup's favorite topic for Danny’s team, Jalen Hurts. Hurts still sits at QB2 through 9 weeks. He is averaging 22.1 fantasy points a game this season and has only fallen below 20 points just twice. We’ll see where Odell Beckham Jr. ends up. OBJ and his new team might give Danny’s team a nice boost for the rest of the season. Junghwan can’t seem to string together consecutive wins. He and his team now sit in last place in the West division but that does not mean he’s out of it by any means. QB woes continue for Junghwan. Junghwan has never really had quality QB production. This week was no different as Derek Carr put up his second worst fantasy performance of the season.
 
 **I need Moore points Starting QB Points Week 1 - 9**
+
 |Week|QB| Fantasy Points| Matchup Result|
 |:-----:|:----:|:------------------:|:------------------:|
 |1| Ryan Tannehill| 14.18| L|
@@ -114,7 +115,7 @@ Just like yourself, Aaron Jones was also missing Aaron Rogers bad\
 Your team is pretty much a Green Bay Aaron stan account\
 Adam Thielen, who isn’t an Aaron, is the only one on your team to score a touchdown\
 Your bench with just a D/ST and one RB scored more than a third of your starting lineup’s points\
-Might be some more help on the bench in Michael Thom… never mind ![I guess he’s out for the season](https://twitter.com/Cantguardmike/status/1455895624742748161?s=20)\ 
+Might be some more help on the bench in Michael Thom… never mind [I guess he’s out for the season](https://twitter.com/Cantguardmike/status/1455895624742748161?s=20)\ 
 However, you did continue your streak of L W L W L W L W L and you remind us to just take a step back and laugh at fantasy football\
 So for that, we thank you.
 
