@@ -6,7 +6,7 @@ We are back after another unplanned bye week by yours truly. The wife and I went
 
 8 out of the 12 teams in the LGED are on a streak. Whether a team is winning or losing, a streak is a streak. The lowest streak right now is 3. So, for those 8 teams:
 
-![](../media/wf_streaking.jpg)
+![](../media/wf_streaking.gif)
 
 Five more games remain in the LGED 21 regular season. At least half of the playoff spots are still up for grabs. Plenty of time for everyone (except for maybe one team) to make a final playoff push.
 
@@ -63,7 +63,7 @@ Danny and the Golladay Inn Express continue to roll. 4 straight wins for Danny a
 |1| Ryan Tannehill| 14.18| L|
 |2| Ryan Tannehill| 14.58| L |
 |3| Daniel Jones| 16.54| L |
-| **4** | **Daniel Jones** | **26.78 **| W|
+| **4** | **Daniel Jones** | **26.78**| W|
 |5|Daniel Jones| 4.82|L|
 |6|Daniel Jones| 4.08|W|
 |7|Derek Carr| 19.02| L|
@@ -78,7 +78,7 @@ A lot of Junghwan’s players have had a bit of a boom or bust feel. Julio Jones
 
 | W  | | L   |   |
 | ------------------------ |:-------------:| --------------------|:----------:|
-|     **Smokin’ Herbs**      |**103.24**     | OJ is my GM|   71.88  |
+|     **Smokin’ Herbs 🚬**      |**103.24**     | OJ is my GM|   71.88  |
 
 Matt gets the win over Anil to remain over .500 on the season so far. Anil on the other hand has now lost 4 straight. For Matt, Justin Herbert snapped back into his dark horse MVP form with 356 passing yards with 2 touchdowns and 1 rushing touchdown. This was Herbert's best game since week 5. Josh Jacobs continues his somewhat quiet season. Jacobs hasn’t broken over 53 rushing yards in the 5 games he's played. This week, he broke that record and rushed for 76 yards but no touchdown. Michael Pittman Jr. is on a nice 3 game touchdown streak. Pittman has been good so far and currently sits at WR9. Ja’Marr Chase’s worst game in his young career with only 6 catches for 49 yards. Funny because it was Chase’s highest number of targets this season. Dalvin Cook’s rocky season continued but did manage 110 rushing yards. It looks like both Anil and OJ went on a trip this week without letting the other one know who would be setting the team’s lineup. Antonio Gibson and T.J. Hockenson were both on byes. Kirk Cousins rushed for his first touchdown of the season and also managed to throw for 2 more. Keenan Allen enjoyed Herbert’s return to form and caught 12 passes for 104 yards. Fellow offensive coworker Austin Ekeler sits at RB4 on the season but didn’t make much of an impact this week. Allen Robinson hasn’t scored over 10 fantasy points this season. Devin Singletary did have his second best fantasy game of the season thanks to 7 receptions. Singletary found some production in an otherwise very forgettable offensive performance by the Bills against one of the worst teams in the league. Doesn’t look like Anil would have won even if he did start his lineup, but you never know. 
 
@@ -130,9 +130,9 @@ So for that, we thank you.
 [HOME](../index.md)
 
 
-[Week 1](./2021_week8_writeup.md)
+[Week 8](./2021_week8_writeup.md)
 
-[Week 2](./2021_week11_writeup.md)
+[Week 10](./2021_week11_writeup.md)
 
 
 
