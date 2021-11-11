@@ -115,7 +115,8 @@ Just like yourself, Aaron Jones was also missing Aaron Rogers bad\
 Your team is pretty much a Green Bay Aaron stan account\
 Adam Thielen, who isn’t an Aaron, is the only one on your team to score a touchdown\
 Your bench with just a D/ST and one RB scored more than a third of your starting lineup’s points\
-Might be some more help on the bench in Michael Thom… never mind [I guess he’s out for the season](https://twitter.com/Cantguardmike/status/1455895624742748161?s=20)\ 
+Might be some more help on the bench in Michael Thom… never mind [I guess he’s out for the season](https://twitter.com/Cantguardmike/status/1455895624742748161?s=20)
+<br>
 However, you did continue your streak of L W L W L W L W L and you remind us to just take a step back and laugh at fantasy football\
 So for that, we thank you.
 
