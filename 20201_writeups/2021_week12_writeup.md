@@ -1,4 +1,4 @@
-# LGED 21-22 Week-12 Recap: 
+# LGED 21-22 Week-12 Recap: Playoff Spots Still Up For Grabs
 
 ### Whaddup
 
