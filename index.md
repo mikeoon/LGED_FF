@@ -23,6 +23,9 @@ Check out past season writeups here:
  - **[Week 7: The Halfway Point Filled with Injuries and Byes](./20201_writeups/2021_week7_writeup.md)**
  - **Week 8: BYE**
  - **[Week 9: We're Going Streaking!!!](./20201_writeups/2021_week9_writeup.md)**
+ - **Week 10: BYE**
+ - **Week 11: Turkey Time BYE**
+ - **[Week 12: Playoff Spots Still Up For Grabs](./20201_writeups/2021_week12_writeup.md)**
  
 <br>
 <br>
@@ -38,14 +41,14 @@ Check out past season writeups here:
 |:---------:|:------------------:|:-------------:|
 | Kai       |                    |               |
 | Andrew    |         2          |               |
-| Eugene    |                    |       2       |
-| Mike      |         2          |               |
-| Junghwan  |                    |       1       |
+| Eugene    |                    |       3       |
+| Mike      |         3          |               |
+| Junghwan  |                    |       2       |
 | Matt      |         1          |               |
-| Anil      |                    |       3       |
-| Miles     |                    |               |
+| Anil      |         1          |       3       |
+| Miles     |                    |       1       |
 | Danny     |         1          |               |
-| Connor    |         1          |       2       |
+| Connor    |         2          |       2       |
 | Kyle      |         2          |       1       |
 | Zach      |                    |               |
 
