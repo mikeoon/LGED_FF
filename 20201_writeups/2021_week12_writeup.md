@@ -4,9 +4,9 @@
 
 We are back with 2 more weeks left in the LGED 2021 regular season. For most of the league, playoff hopes still remain. 
 
-As a reminder, outside of the top slot in the division, it goes by overall record regardless of position. Here is information on how the tie breaker works for playoff seeding:
+As a reminder, outside of the top slot in the division, it goes by overall record regardless of position. Here is information on how the tie breakers work for [playoff seeding](https://support.espn.com/hc/en-us/articles/360036952471-Playoff-Seeding-How-Regular-Season-Standings-Tiebreakers-Work)
 
-https://support.espn.com/hc/en-us/articles/360036952471-Playoff-Seeding-How-Regular-Season-Standings-Tiebreakers-Work
+
 
 Good luck fellow degenerates.
 
@@ -54,7 +54,7 @@ A good win for Kai to help lock in a playoff spot. For Junghwan, a tough loss. T
 
 | W  | | L   |   |
 | ------------------------ |:-------------:| --------------------|:----------:|
-|     **DK’s Left Calf**      |**124.88**     | Smokin’ Herbs|   91.02  |
+|     **DK’s Left Calf**      |**124.88**     | Smokin’ Herbs 🚬|   91.02  |
 
 Big win for Zach’s team to remain in the playoff hunt. Matt on the other hand drops to 6 - 6 and sits in one of 2 hot seats for the playoffs. For Zach’s team, the Seahawks vibes were okay. Russell Wilson had, sadly, his best game after returning from injury scoring more points than his previous two outings combined. Tyler Lockett was just 4 yards shy of another 100 yard game. Deebo Samuel continues his impressive season. Samuel has two weeks in a row with more rushing yards than receiving yards. He has scored the same number of rushing touchdowns as receiving touchdowns with 5 each. Curious to see if other WRs are used this way in the future. Samuel appears to be banged up and hopefully isn’t out too long. Dolphins D/ST continues their great play. Since week 9, they have only allowed over 10 points just once. In that same time, they have recorded 16 sacks, 7 interceptions and scored 2 touchdowns. Ezekiel Elliot had the same number of carries (9) and receptions (6) for two weeks straight. Darrell Henderson Jr. found the endzone again after a 2 week dry spell. Hope for Zach’s team remains, next week is a big matchup against a rolling Leonard’s Bakery. A mediocre week for Matt’s squad. Most of Matt’s starting lineup put up decent numbers but no one put up 20+ points. Josh Jacobs did have his best fantasy performance of the season behind a season high in carries with 22. Diontae Johnson tried to do the most with his whopping 14 targets hauling in 9 of them for 95 yards. Ja’Marr Chase cooled off a bit this week with his worst performance with just 5.4 fantasy points. Chase was only targeted 3 times but did catch all three of those targets. George Kittle had a similar week with his own worst fantasy performance with just 1 catch for 13 yards. Unfortunately, Dalvin Cook went down with a dislocated shoulder and is set to miss at least the next 2 games. Those will be 2 crucial games as Matt hopes to lock up a playoff spot. Matt’s next to matchups are against 2 below .500 teams. If he can lock in a playoff spot and Cook returns, Matt could find himself in good shape for a deep playoff run.
 
@@ -90,7 +90,7 @@ Keep the record ALIVE
 **Im just … Tired - Eugene**\
 **64.5 Points**\
 **Best Player: Dak Prescott QB - 25.3 Points**\
-Man this is your ____ time in the roast\
+Man this is your third time in the roast\
 Only 1 player on your team actually won their week 12 matchup, Ravens D/ST\
 3 of your players didn’t even play\
 Your team didn’t even have the capability to start a full roster for week 12\
@@ -110,9 +110,9 @@ So for that, we thank you.
 [HOME](../index.md)
 
 
-[Week 1](./2021_week9_writeup.md)
+[Week 9](./2021_week9_writeup.md)
 
-[Week 2](./2021_week13_writeup.md)
+[Week 13](./2021_week13_writeup.md)
 
 
 
