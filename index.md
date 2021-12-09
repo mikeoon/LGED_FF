@@ -26,6 +26,10 @@ Check out past season writeups here:
  - **Week 10: BYE**
  - **Week 11: Turkey Time BYE**
  - **[Week 12: Playoff Spots Still Up For Grabs](./20201_writeups/2021_week12_writeup.md)**
+ - **[Week 13: One Hot Playoff Spot Left](./20201_writeups/2021_week13_writeup.md)**
+
+
+
  
 <br>
 <br>
@@ -40,13 +44,13 @@ Check out past season writeups here:
 |    GM     | # Scoring Champion | # Got Roasted |
 |:---------:|:------------------:|:-------------:|
 | Kai       |                    |               |
-| Andrew    |         2          |               |
+| Andrew    |         3          |               |
 | Eugene    |                    |       3       |
 | Mike      |         3          |               |
 | Junghwan  |                    |       2       |
 | Matt      |         1          |               |
 | Anil      |         1          |       3       |
-| Miles     |                    |       1       |
+| Miles     |                    |       2       |
 | Danny     |         1          |               |
 | Connor    |         2          |       2       |
 | Kyle      |         2          |       1       |
