@@ -12,7 +12,7 @@ Check out past season writeups here:
 <br>
 
 
-## 2021-2022 LGED: Season 5 - Writeups
+## 2022-2023 LGED: Season 5 - Writeups
 
 <br>
 
