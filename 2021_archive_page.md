@@ -1,4 +1,8 @@
-# 2021-2022 LGED: Season 4 - Writeups
+# 2021 - 2022 LGED Season 4 Archive
+
+### [HOME](./index.md)
+
+## 2021-2022 LGED: Season 4 - Writeups
 
 <br>
 
