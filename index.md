@@ -47,8 +47,8 @@ Check out past season writeups here:
 
 |Season Record Holders|||
 |:-----------:|:------------------:|:--------------|
-|Highest Champ|        -           |    158.82     |
-|Lowest  Champ|        -           |     40.30     |
+|Highest Champ|        -           |       -       |
+|Lowest  Champ|        -           |       -       |
 
 
 ![LGED Logo](./media/21-22_lged_logo.png)
