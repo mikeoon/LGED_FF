@@ -28,7 +28,7 @@ Check out past season writeups here:
 
 
 
-## 2021 - 2022 League Leaderboards
+## 2022 - 2023 League Leaderboards
 
 
 |    GM     | # Scoring Champion | # Got Roasted |
