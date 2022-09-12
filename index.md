@@ -5,6 +5,7 @@ Check out past season writeups here:
 <br>
 <br>
 **[2020-2021 LGED: Season 3](./2020_archive_page.md)**
+
 **[2021-2022 LGED: Season 4](./2021_archive_page.md)**
 
 <br>
