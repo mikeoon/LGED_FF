@@ -37,19 +37,19 @@ Check out past season writeups here:
 | Andrew    |                    |               |
 | Eugene    |                    |               |
 | Mike      |                    |               |
-| Junghwan  |                    |               |
+| Junghwan  |         1          |               |
 | Matt      |                    |               |
 | Anil      |                    |               |
 | Miles     |                    |               |
-| Danny     |                    |               |
+| Danny     |                    |       1       |
 | Connor    |                    |               |
 | Kyle      |                    |               |
 | Zach      |                    |               |
 
 |Season Record Holders|||
 |:-----------:|:------------------:|:--------------|
-|Highest Champ|        -           |       -       |
-|Lowest  Champ|        -           |       -       |
+|Highest Champ|      Junghwan       |     135.7     |
+|Lowest  Champ|       Danny         |     64.76     |
 
 
 ![LGED Logo](./media/21-22_lged_logo.png)
