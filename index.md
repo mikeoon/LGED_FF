@@ -16,7 +16,7 @@ Check out past season writeups here:
 
 <br>
 
- - **[Week 1: loading...(./)**
+ - **[Week 1: Aahhhhh the Smell of Week 1 is in the Air](./2022_writeups/2022_week1_writeup.md)**
 
 
 
