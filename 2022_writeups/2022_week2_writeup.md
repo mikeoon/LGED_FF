@@ -4,9 +4,9 @@
 
 Week 2 we saw a record breaking performance and some drama that comes in the form of a bench. Remember boys, it's early. Make some waiver moves or better yet send out some trade requests. 
 
-Use [this](https://twitter.com/SleeperHQ/status/1572284924488744960?s=20&t=PjvInPwGJ0y1_weH74QVPA) as your motivation: 
+Use [this](https://twitter.com/SleeperHQ/status/1572284924488744960?s=20&t=PjvInPwGJ0y1_weH74QVPA) as your motivation
 
-Oh and then there's [this](https://twitter.com/thesnyderknight/status/1572249728682958852?s=46&t=PkmSm88lddKTSpHKo96XDA):
+Oh and then there's [this](https://twitter.com/thesnyderknight/status/1572249728682958852?s=46&t=PkmSm88lddKTSpHKo96XDA)
 
 
 Onto week 2
