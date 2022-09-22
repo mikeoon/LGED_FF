@@ -1,5 +1,5 @@
 # Welcome, Fellow Degenerate
-We are back for LGED's 4th season. Normal shenanigans, always happy to include more stuff on the website.
+We are back for LGED's 5th season. Normal shenanigans, always happy to include more stuff on the website.
 
 Check out past season writeups here:
 <br>
@@ -17,6 +17,7 @@ Check out past season writeups here:
 <br>
 
  - **[Week 1: Aahhhhh the Smell of Week 1 is in the Air](./2022_writeups/2022_week1_writeup.md)**
+ - **[Week 2: A New League Record Low and a Bench](./2022_writeups/2022_week2_writeup.md)**
 
 
 
@@ -33,7 +34,7 @@ Check out past season writeups here:
 
 |    GM     | # Scoring Champion | # Got Roasted |
 |:---------:|:------------------:|:-------------:|
-| Kai       |                    |               |
+| Kai       |         1          |               |
 | Andrew    |                    |               |
 | Eugene    |                    |               |
 | Mike      |                    |               |
@@ -43,13 +44,13 @@ Check out past season writeups here:
 | Miles     |                    |               |
 | Danny     |                    |       1       |
 | Connor    |                    |               |
-| Kyle      |                    |               |
+| Kyle      |                    |       1       |
 | Zach      |                    |               |
 
 |Season Record Holders|||
 |:-----------:|:------------------:|:--------------|
-|Highest Champ|      Junghwan       |     135.7     |
-|Lowest  Champ|       Danny         |     64.76     |
+|Highest Champ|        Kai          |    158.62     |
+|Lowest  Champ|        Kyle         |     38.76     |
 
 
 ![LGED Logo](./media/21-22_lged_logo.png)
