@@ -1,4 +1,4 @@
-# LGED 21-22 Week-8 Recap: 
+# LGED 21-22 Week-8 Recap: We're Back Like Nothing Happened
 
 ### Whaddup
 
@@ -68,7 +68,7 @@ After a 5 game losing streak, this may be the turning point for Kai and Crew, gl
 **Carroll’s A Coward - Kyle**\
 **85.24 Points**\
 **Best Player: Kyler Murray QB - 24.64 Points**\
-Welcome back\
+Welcome back for the third time\
 You’ve come so far only to be brought back into the roast\
 You’re RB choices are brutal, I wouldn’t have trusted Khalil Herbert or Chase Edmonds either\
 Tee Higgins is not Ja’Marr Chase\
