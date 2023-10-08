@@ -1,5 +1,5 @@
 # Welcome, Fellow Degenerate
-We are back for LGED's 5th season. Normal shenanigans, always happy to include more stuff on the website.
+We are back for LGED's 6th season. Normal shenanigans, always happy to include more stuff on the website.
 
 Check out past season writeups here:
 <br>
@@ -8,19 +8,17 @@ Check out past season writeups here:
 
 **[2021-2022 LGED: Season 4](./2021_archive_page.md)**
 
-<br>
-<br>
-
-
-## 2022-2023 LGED: Season 5 - Writeups
+**[2021-2022 LGED: Season 5](./2022_archive_page.md)**
 
 <br>
+<br>
 
- - **[Week 1: Aahhhhh the Smell of Week 1 is in the Air](./2022_writeups/2022_week1_writeup.md)**
- - **[Week 2: A New League Record Low and a Bench](./2022_writeups/2022_week2_writeup.md)**
- - **BYE 3 - 7 BYE**
- - **[Week 8: We're Back Like Nothing Happened](./2022_writeups/2022_week8_writeup.md)**
 
+## 2023-2024 LGED: Season 6 - Power Rankings
+
+<br>
+
+ - **[Week 1 - 4: It's Only The Beginning](./2023_writeups/power_rankings_week4.md)**
 
 
  
@@ -31,28 +29,28 @@ Check out past season writeups here:
 
 
 
-## 2022 - 2023 League Leaderboards
+## 2023 - 2024 League Leaderboards
 
 
 |    GM     | # Scoring Champion | # Got Roasted |
 |:---------:|:------------------:|:-------------:|
-| Kai       |         2          |               |
+| Kai       |                    |       2       |
 | Andrew    |                    |               |
-| Eugene    |                    |       1       |
-| Mike      |                    |               |
-| Junghwan  |         2          |               |
-| Matt      |         2          |               |
+| Eugene    |                    |               |
+| Mike      |                    |       1       |
+| Junghwan  |         1          |               |
+| Matt      |         1          |               |
 | Anil      |                    |               |
-| Miles     |                    |               |
-| Danny     |                    |       1       |
-| Connor    |                    |       1       |
-| Kyle      |         2          |       3       |
-| Zach      |                    |       2       |
+| Miles     |         1          |               |
+| Danny     |         1          |               |
+| Connor    |                    |               |
+| Kyle      |                    |               |
+| Zach      |                    |       1       |
 
 |Season Record Holders|||
 |:-----------:|:------------------:|:--------------|
-|Highest Champ|        Kai          |    161.4      |
-|Lowest  Champ|        Kyle         |     38.76     |
+|Highest Champ|        Matt         |     157.56    |
+|Lowest  Champ|        Kai          |     56.06     |
 
 
 ![LGED Logo](./media/21-22_lged_logo.png)
