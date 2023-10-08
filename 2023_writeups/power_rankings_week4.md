@@ -30,9 +30,7 @@ One of two undefeated teams left in the league. Danny’s squad has yet to score
 | ------------------------ |
 |**CeeDee-Z Nutz - Matt**|
 |**4  - 0**      |
-Our other undefeated team in this early season. The most hilarious thing is, both undefeated teams have played the same teams. <iframe src="https://giphy.com/embed/51UdTLvbyReqNK3Bic" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-51UdTLvbyReqNK3Bic">via GIPHY</a></p>
-
-Doesn’t really matter though since Matt is 2nd in Points For. He’s been swimming with the Dolphins. No one else has benefited more from Mike McDaniel’s offense. With Raheem Mostert (RB2) and Tyreek Hill (WR2). AJ Brown(WR8) has  had a nice start to the season. Dak Prescott has been Matt’s one soft spot as he currently has 3 rostered QBs to help with Prescott’s lack of production. At least he didn’t draft Prescott too high… or Joe Burrow for that matter. Isaiah Pacheco(RB12) and Mark Andrews(TE3) seem to be gaining steam. After week 5 though, one undefeated team will remain as Matt plays Danny. The only reason Matt doesn’t get the top power ranking is, unlike his undefeated counterpart, he has the lowest Points Allowed so far.
+Our other undefeated team in this early season. The most hilarious thing is, both undefeated teams have played the same teams... coincidence?? Doesn’t really matter though since Matt is 2nd in Points For. He’s been swimming with the Dolphins. No one else has benefited more from Mike McDaniel’s offense. With Raheem Mostert (RB2) and Tyreek Hill (WR2). AJ Brown(WR8) has  had a nice start to the season. Dak Prescott has been Matt’s one soft spot as he currently has 3 rostered QBs to help with Prescott’s lack of production. At least he didn’t draft Prescott too high… or Joe Burrow for that matter. Isaiah Pacheco(RB12) and Mark Andrews(TE3) seem to be gaining steam. After week 5 though, one undefeated team will remain as Matt plays Danny. The only reason Matt doesn’t get the top power ranking is, unlike his undefeated counterpart, he has the lowest Points Allowed so far.
 
 ## Power Ranking 3
 ### Kingdom DooDoo - Miles
