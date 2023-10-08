@@ -1,4 +1,6 @@
-# LGED 23-24 Power Rankings: Week 1 - Week 4
+# LGED 23-24 Power Rankings Week 1 - Week 4
+
+## It's Only The Beginning...
 
 ### Whaddup
 
