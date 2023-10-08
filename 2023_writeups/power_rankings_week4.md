@@ -12,8 +12,6 @@ This will be put out every 4 weeks or so
 
 I know everyone is eager, so lets get to it
 
-Week 4 Third of the way there
-
 
 |**Power Ranking 1**|
 | :------------------------: |
