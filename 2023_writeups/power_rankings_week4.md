@@ -23,7 +23,8 @@ Week 4 Third of the way there
 One of two undefeated teams left in the league. Danny’s squad has yet to score under 120 points through the first four weeks. It wasn’t all easy though with a .54 victory over Andrew’s team in week 2. Other than Andrew’s team, the three other teams he faced have a combined record of 2 - 10 (Eugene, Kai and Mike). We could point these three teams as a cake walk, but Danny’s team has been putting up big numbers and has the highest points for (63.18 points more than the next). Danny’s team is powered by the 49ers offense, Christian McCaffrey (RB1) and Deebo Samuel (WR15) as well as the lead Dolphin man himself, Tua Tagovailoa (QB6). Big games from the supporting cast have boosted his team to the top. Nico Collins, TJ Hockenson and Travis Etienne Jr. all had a strong week to help Danny’s main cast. It doesn’t even feel like Danny lost J.K. Dobbins. The schedule will get harder for him, but sky's the limit with CMC playing the way he is. 
 
 |**Power Ranking 2**|
-| :------------------------: ||**CeeDee-Z Nutz - Matt**|
+| :------------------------: |
+|**CeeDee-Z Nutz - Matt**|
 |**4  - 0**      |
 
 Our other undefeated team in this early season. The most hilarious thing is, both undefeated teams have played the same teams... coincidence?? Doesn’t really matter though since Matt is 2nd in Points For. He’s been swimming with the Dolphins. No one else has benefited more from Mike McDaniel’s offense. With Raheem Mostert (RB2) and Tyreek Hill (WR2). AJ Brown(WR8) has  had a nice start to the season. Dak Prescott has been Matt’s one soft spot as he currently has 3 rostered QBs to help with Prescott’s lack of production. At least he didn’t draft Prescott too high… or Joe Burrow for that matter. Isaiah Pacheco(RB12) and Mark Andrews(TE3) seem to be gaining steam. After week 5 though, one undefeated team will remain as Matt plays Danny. The only reason Matt doesn’t get the top power ranking is, unlike his undefeated counterpart, he has the lowest Points Allowed so far.
@@ -38,14 +39,14 @@ The Kingdom is in good spirits. And why wouldn’t they be? After years of tyran
 
 
 |**Power Ranking 4**|
-| ------------------------ |
+| :------------------------: |
 |**Geno’s Kitchen - Andrew**|
 |**2 - 2**      |
 
 A bit of a tough schedule for Andrew to start, but his team has played well. Starting off the season, his team played both undefeated teams in back to back weeks. Which included that 0.54 loss to Danny. Since then? Andrew’s team has turned it on with 120+ performances in both week 3 and 4. Waiver wire darling Puka Nacua(WR5) continues to warm Rams fans and fantasy managers’ hearts (no one else cares, he plays on the Rams). Derrick Henry(RB11) just put up his first 20+ point performance. Seems like whenever Henry gets 20+ carries, good things happen in fantasy. Kenneth Walker III(RB5) is one of a handful of RBs that are living up to their draft hype (go hawks). Keenan Allen(WR3) just pushed off Father Time and is playing extremely well. Week 3, Allen had 18 receptions… 9 points allow on 0.5 PPR. Andrew’s team clicking and he’s benching guys DJ Moore(WR13) and CeeDee Lamb(WR16) cause he can.
 
 |**Power Ranking 5**|
-| ------------------------ |
+| :------------------------: |
 |**Hurts So Good - Junghwan**|
 |**2 - 2**      |
 
