@@ -1,5 +1,5 @@
 # Welcome, Fellow Degenerate
-We are back for LGED's 6th season. Normal shenanigans, always happy to include more stuff on the website.
+We are back for LGED's 7th season. Normal shenanigans, always happy to include more stuff on the website.
 
 Check out past season writeups here:
 <br>
@@ -10,13 +10,13 @@ Check out past season writeups here:
 
 **[2021-2022 LGED: Season 5](./2022_archive_page.md)**
 
-**[2021-2022 LGED: Season 6](./2023_archive_page.md)**
+**[2022-2023 LGED: Season 6](./2023_archive_page.md)**
 
 <br>
 <br>
 
 
-## 2023-2024 LGED: Season 7 - Power Rankings
+## 2024-2025 LGED: Season 7 - Power Rankings
 
 <br>
 
@@ -31,7 +31,7 @@ Check out past season writeups here:
 
 
 
-## 2023 - 2024 League Leaderboards
+## 2024 - 2025 League Leaderboards
 
 
 |    GM     | # Scoring Champion | # Got Roasted |
