@@ -16,11 +16,11 @@ Check out past season writeups here:
 <br>
 
 
-## 2023-2024 LGED: Season 6 - Power Rankings
+## 2023-2024 LGED: Season 7 - Power Rankings
 
 <br>
 
- - **[Week 1 - 4: It's Only The Beginning](./2023_writeups/power_rankings_week4.md)**
+ - **[Week 1: It's year 6! Wait no...](./2023_writeups/Week_1_writeup.md)**
 
 
  
@@ -36,23 +36,23 @@ Check out past season writeups here:
 
 |    GM     | # Scoring Champion | # Got Roasted |
 |:---------:|:------------------:|:-------------:|
-| Kai       |                    |       2       |
+| Kai       |                    |               |
 | Andrew    |                    |               |
 | Eugene    |                    |               |
-| Mike      |                    |       1       |
-| Junghwan  |         1          |               |
-| Matt      |         1          |               |
+| Mike      |                    |               |
+| Junghwan  |                    |               |
+| Matt      |                    |       1       |
 | Anil      |                    |               |
-| Miles     |         1          |               |
-| Danny     |         1          |               |
+| Miles     |                    |               |
+| Danny     |                    |               |
 | Connor    |                    |               |
 | Kyle      |                    |               |
-| Zach      |                    |       1       |
+| Zach      |         1          |               |
 
 |Season Record Holders|||
 |:-----------:|:------------------:|:--------------|
-|Highest Champ|        Matt         |     157.56    |
-|Lowest  Champ|        Kai          |     56.06     |
+|Highest Champ|        Zach         |     156.68    |
+|Lowest  Champ|        Matt         |     56.26     |
 
 
 ![LGED Logo](./media/21-22_lged_logo.png)
