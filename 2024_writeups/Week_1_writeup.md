@@ -8,7 +8,7 @@ We are BACK baby. I wanted to make it known I messed up and this actually year 7
 
 Year 7 never felt so good. I want to thank the league for staying with the League of Extraordinary Degenerates and continue to prove year in year out that we are truly degenerates. Cheers
 
-![](./media/leo_gatsby.gif)
+![leo gatsby](../media/leo_gatsby.gif)
 
 With it being week 1, and not many story lines, I wanted to take some time to review the league history. Six years is pretty good amount of history so far. What does that history tell us?? Let’s take a look
 
