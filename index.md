@@ -8,9 +8,9 @@ Check out past season writeups here:
 
 **[2021-2022 LGED: Season 4](./2021_archive_page.md)**
 
-**[2021-2022 LGED: Season 5](./2022_archive_page.md)**
+**[2022-2023 LGED: Season 5](./2022_archive_page.md)**
 
-**[2022-2023 LGED: Season 6](./2023_archive_page.md)**
+**[2023-2024 LGED: Season 6](./2023_archive_page.md)**
 
 <br>
 <br>
