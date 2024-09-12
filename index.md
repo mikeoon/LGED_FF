@@ -20,7 +20,7 @@ Check out past season writeups here:
 
 <br>
 
- - **[Week 1: It's year 6! Wait no...](./2023_writeups/Week_1_writeup.md)**
+ - **[Week 1: It's year 6! Wait no...](./2024_writeups/Week_1_writeup.md)**
 
 
  
