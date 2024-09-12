@@ -24,9 +24,9 @@ A lot of people have been knocking on the door though. Matt has the highest numb
 
 Two league history trophies need to go out.
 
-The first, is the 2017 Cleveland Browns Award to the manager that has had the worst regular season record in league history. This award goes to Eugene! For his team **@me for Free Wins** which finished 2 - 12 in 2022. The extra game the NFL added really hurt as it was a tie for Anil’s 2019 performance of 2 - 11.
+The first, is the **2017 Cleveland Browns Award** to the manager that has had the worst regular season record in league history. This award goes to Eugene! For his team "@me for Free Wins" which finished 2 - 12 in 2022. The extra game the NFL added really hurt as it was a tie for Anil’s 2019 performance of 2 - 11.
 
-The second, is the 2001 Seattle Mariners Award for the team with the best regular season record. It’s also fitting since the team that currently holds this trophy also didn’t win it all that season. It goes to myself! For my team **Yoon Pooned** in 2021 that went 12 - 2 and a loss in the championship game. 
+The second, is the **2001 Seattle Mariners Award** for the team with the best regular season record. It’s also fitting since the team that currently holds this trophy also didn’t win it all that season. It goes to myself! For my team "Yoon Pooned" in 2021 that went 12 - 2 and a loss in the championship game. 
 
 What does all of this tell us??? Absolutely nothing.
 
