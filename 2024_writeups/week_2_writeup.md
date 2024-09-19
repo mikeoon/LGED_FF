@@ -19,7 +19,7 @@ Let’s get to it.
 
 |**Power Rank 1**|
 | :------------------------: |
-|![g_arrow](../media/green_arrow.gif) **Baskin Dobbins - Danny**|
+|![g_arrow](../media/green_arrow.png) **Baskin Dobbins - Danny**|
 |**Last Week: 5**           |
 |**2 - 0**                |
 |**PF: 216.98**           |
@@ -32,7 +32,7 @@ A change in the top stop in this week’s power rankings. With back to back wins
 
 |**Power Rank 2**|
 | :------------------------: |
-|![g_arrow](../media/green_arrow.gif)  **Baskin Dobbins - Danny**|
+|![g_arrow](../media/green_arrow.png)  **Baskin Dobbins - Danny**|
 |**Last Week: 8**           |
 |**2 - 0**                |
 |**PF: 235.32**           |
@@ -45,7 +45,7 @@ A HUGE win for Miles in week 2. We see him and the kingdom jump up six spots in 
 
 |**Power Rank 3**|
 | :------------------------: |
-|![r_arrow](../media/red_arrow.gif) **AllenAfterDark - Kyle**|
+|![r_arrow](../media/red_arrow.png) **AllenAfterDark - Kyle**|
 |**Last Week: 2**           |
 |**1 - 1**                |
 |**PF: 215.84**           |
@@ -58,7 +58,7 @@ Slight stumble for Kyle and team. Scoring 86.96 points in this week’s loss. On
 
 |**Power Rank 4**|
 | :------------------------: |
-|![r_arrow](../media/red_arrow.gif) **Chubby Chasers - Connor**|
+|![r_arrow](../media/red_arrow.png) **Chubby Chasers - Connor**|
 |**Last Week: 3**           |
 |**1 - 1**                |
 |**PF: 201.82**           |
@@ -71,7 +71,7 @@ Stumbles continue for the top 3 teams in last week’s power rankings. Connor’
 
 |**Power Rank 5**|
 | :------------------------: |
-|![r_arrow](../media/red_arrow.gif) **DK’s Left Calf - Zach**|
+|![r_arrow](../media/red_arrow.png) **DK’s Left Calf - Zach**|
 |**Last Week: 1**           |
 |**1 - 1**                |
 |**PF: 260.74**           |
@@ -101,7 +101,7 @@ After last week’s tough loss, Eugene comes back with a good win in week 2 for 
 
 |**Power Rank 7**|
 | :------------------------: |
-|![r_arrow](../media/red_arrow.gif)  **I am Kenough Walker - Andrew**|
+|![r_arrow](../media/red_arrow.png)  **I am Kenough Walker - Andrew**|
 |**Last Week: 6**           |
 |**1 - 1**                |
 |**PF: 220.3**           |
@@ -115,7 +115,7 @@ A loss this week puts Andrew 7th in the power rankings. A steady week for Andrew
 
 |**Power Rank 8**|
 | :------------------------: |
-|![g_arrow](../media/green_arrow.gif)  **OJ Forever - Anil**|
+|![g_arrow](../media/green_arrow.png)  **OJ Forever - Anil**|
 |**Last Week: 9**           |
 |**1 - 1**                |
 |**PF: 192.16**           |
@@ -129,7 +129,7 @@ Anil nabs his first win in honor of OJ. Well I guess this whole season goes to O
 
 |**Power Rank 9**|
 | :------------------------: |
-|![r_arrow](../media/red_arrow.gif)  **Poop AUTO - Kai**|
+|![r_arrow](../media/red_arrow.png)  **Poop AUTO - Kai**|
 |**Last Week: 7**           |
 |**1 - 1**                |
 |**PF: 205.00**           |
@@ -143,7 +143,7 @@ Tough loss for Kai in week 2. Thanks to the Cowboys getting torched on Sunday mo
 
 |**Power Rank 10**|
 | :------------------------: |
-|![g_arrow](../media/green_arrow.gif)  **CeeDee-Z Nutz - Matt**|
+|![g_arrow](../media/green_arrow.png)  **CeeDee-Z Nutz - Matt**|
 |**Last Week: 12**           |
 |**1 - 1**                |
 |**PF: 159.66**           |
@@ -156,7 +156,7 @@ A good win coming of Matt’s week 1 lowest scoring team of the week performance
 
 |**Power Rank 11**|
 | :------------------------: |
-|![r_arrow](../media/red_arrow.gif)  **Yoon Pooned - Mike**|
+|![r_arrow](../media/red_arrow.png)  **Yoon Pooned - Mike**|
 |**Last Week: 10**           |
 |**0 - 2**                |
 |**PF: 174.94**           |
@@ -169,7 +169,7 @@ Now we get to the winless teams left in the league. First up is my team. Overall
 
 |**Power Rank 12**|
 | :------------------------: |
-|![r_arrow](../media/red_arrow.gif)  **Tuadeez receivers - Junghwan**|
+|![r_arrow](../media/red_arrow.png)  **Tuadeez receivers - Junghwan**|
 |**Last Week: 11**           |
 |**0 - 2**                |
 |**PF: 148.32**           |
