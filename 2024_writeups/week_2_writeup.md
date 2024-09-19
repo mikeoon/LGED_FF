@@ -85,7 +85,7 @@ Zach admittedly takes a pretty big tumble from the top spot in week 1. When it c
 
 |**Power Rank 6**|
 | :------------------------: |
-|**DooDoo Magic - Eugene**|
+|![b_dash](../media/black_dash.png) **DooDoo Magic - Eugene**|
 |**Last Week: 6**           |
 |**1 - 1**                |
 |**PF: 214.88**           |
