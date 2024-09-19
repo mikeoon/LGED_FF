@@ -21,7 +21,7 @@ Check out past season writeups here:
 <br>
 
  - **[Week 1: It's year 6! Wait no...](./2024_writeups/Week_1_writeup.md)**
-
+ - **[Week 2: NFL upsets and... INJURIES??!?](./2024_writeups/week_2_writeup.md)**
 
  
 <br>
@@ -40,10 +40,10 @@ Check out past season writeups here:
 | Andrew    |                    |               |
 | Eugene    |                    |               |
 | Mike      |                    |               |
-| Junghwan  |                    |               |
+| Junghwan  |         1          |               |
 | Matt      |                    |       1       |
 | Anil      |                    |               |
-| Miles     |                    |               |
+| Miles     |         1          |               |
 | Danny     |                    |               |
 | Connor    |                    |               |
 | Kyle      |                    |               |
