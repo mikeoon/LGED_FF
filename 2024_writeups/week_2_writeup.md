@@ -32,7 +32,7 @@ A change in the top stop in this week’s power rankings. With back to back wins
 
 |**Power Rank 2**|
 | :------------------------: |
-|![g_arrow](../media/green_arrow.png)  **Baskin Dobbins - Danny**|
+|![g_arrow](../media/green_arrow.png)  **Kingdom DooDoo - Miles**|
 |**Last Week: 8**           |
 |**2 - 0**                |
 |**PF: 235.32**           |
