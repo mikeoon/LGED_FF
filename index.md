@@ -22,6 +22,7 @@ Check out past season writeups here:
 
  - **[Week 1: It's year 6! Wait no...](./2024_writeups/Week_1_writeup.md)**
  - **[Week 2: NFL upsets and... INJURIES??!?](./2024_writeups/week_2_writeup.md)**
+ - **[Week 3: An All Time Low... We talking Cowboys or Zach's Team?](./2024_writeups/week_3_writeup.md)**
 
  
 <br>
@@ -40,19 +41,19 @@ Check out past season writeups here:
 | Andrew    |                    |               |
 | Eugene    |                    |               |
 | Mike      |                    |               |
-| Junghwan  |         1          |               |
+| Junghwan  |                    |       1       |
 | Matt      |                    |       1       |
 | Anil      |                    |               |
 | Miles     |         1          |               |
-| Danny     |                    |               |
+| Danny     |         1          |               |
 | Connor    |                    |               |
 | Kyle      |                    |               |
-| Zach      |         1          |               |
+| Zach      |         1          |       1       |
 
 |Season Record Holders|||
 |:-----------:|:------------------:|:--------------|
 |Highest Champ|        Zach         |     156.68    |
-|Lowest  Champ|        Matt         |     56.26     |
+|Lowest  Champ|        Zach         |     18.89     |
 
 
 ![LGED Logo](./media/21-22_lged_logo.png)
