@@ -164,7 +164,7 @@ Man ohhhh man. The tumble was hard from the top. Zach started with a HUGE week 1
 | :------------------------: |
 |![r_arrow](../media/red_arrow.png) **Yoon Pooned - Mike**|
 |**Last Week: 11**           |
-|**1 - 2**                |
+|**0 - 3**                |
 |**PF: 240.28**           |
 |**PA: 295.88**            |
 
