@@ -1,6 +1,6 @@
 # Week 3 PR
 
-## An All Time Low??? We talking Cowboys or Zach's Team?
+## An All Time Low... We talking Cowboys or Zach's Team?
 
 ### Whaddupp
 
