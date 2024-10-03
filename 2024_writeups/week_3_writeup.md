@@ -1,4 +1,4 @@
-# Week 3 PR
+# LGED 24-25 Power Rankings Week 3
 
 ## An All Time Low... We Talking Cowboys or Zach's Team?
 
