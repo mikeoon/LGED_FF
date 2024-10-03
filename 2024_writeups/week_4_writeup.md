@@ -1,6 +1,6 @@
 # LGED 24-25 Power Rankings Week 4
 
-## Defense?? No We Want Offesne?... Right?
+## Defense?? No We Want Offense?... Right?
 
 ### Whaddupp
 
