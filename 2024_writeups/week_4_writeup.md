@@ -1,6 +1,6 @@
-# Week 3 PR
+# LGED 24-25 Power Rankings Week 4
 
-## An All Time Low??? We talking Cowboys or Zach's Team?
+## Defense?? No We Want Offesne?... Right?
 
 ### Whaddupp
 
