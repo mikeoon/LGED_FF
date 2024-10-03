@@ -23,6 +23,7 @@ Check out past season writeups here:
  - **[Week 1: It's year 6! Wait no...](./2024_writeups/Week_1_writeup.md)**
  - **[Week 2: NFL upsets and... INJURIES??!?](./2024_writeups/week_2_writeup.md)**
  - **[Week 3: An All Time Low... We talking Cowboys or Zach's Team?](./2024_writeups/week_3_writeup.md)**
+ - **[Week 4: Defense?? No We Want Offesne?... Right?](./2024_writeups/week_4_writeup.md)**
 
  
 <br>
@@ -37,9 +38,9 @@ Check out past season writeups here:
 
 |    GM     | # Scoring Champion | # Got Roasted |
 |:---------:|:------------------:|:-------------:|
-| Kai       |                    |               |
+| Kai       |         1          |               |
 | Andrew    |                    |               |
-| Eugene    |                    |               |
+| Eugene    |                    |       1       |
 | Mike      |                    |               |
 | Junghwan  |                    |       1       |
 | Matt      |                    |       1       |
