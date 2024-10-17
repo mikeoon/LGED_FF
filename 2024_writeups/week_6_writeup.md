@@ -161,7 +161,7 @@ Oh my daaayyys. Three losses in a row for Eugene. The last three weeks, Eugeneâ€
 |**Power Rank 12**|
 | :------------------------: |
 |![b_arrow](../media/red_arrow.png) **CeeDee-Z Nutz - Matt**|
-|**Last Week: 12**           |
+|**Last Week: 10**           |
 |**1 - 5**                |
 |**PF: 524.78**           |
 |**PA: 687.28**            |
