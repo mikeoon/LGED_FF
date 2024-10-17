@@ -82,8 +82,8 @@ A couple byes and injuries this week has Kai under performing in week six for hi
 
 |**Power Rank 6**|
 | :------------------------: |
-|![b_arrow](../media/black_arrow.png) **Chubby Chasers - Connor**|
-|**Last Week: 3**           |
+|![b_arrow](../media/black_dash.png) **Chubby Chasers - Connor**|
+|**Last Week: 6**           |
 |**3 - 3**                |
 |**PF: 600.44**           |
 |**PA: 520.76**            |
@@ -121,7 +121,7 @@ Crazy what two weeks can change in the early fantasy season. After three losses 
 
 |**Power Rank 9**|
 | :------------------------: |
-|![b_arrow](../media/black_dash.png) **Allen After Dark - Kyle**|
+|![r_arrow](../media/red_arrow.png) **Allen After Dark - Kyle**|
 |**Last Week: 5**           |
 |**2 - 4**                |
 |**PF: 642.00**           |
