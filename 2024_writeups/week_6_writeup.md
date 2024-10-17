@@ -165,6 +165,7 @@ Oh my daaayyys. Three losses in a row for Eugene. The last three weeks, Eugene�
 |**1 - 5**                |
 |**PF: 524.78**           |
 |**PA: 687.28**            |
+
 After beating Yoon Pooned in week two, Matt has lost four in a row. He’s been beat up on a bit. His last four opponents have averaged 117.83 points. That’s a tough rate to keep up at this season. Mix in the woes of CeeDee Lamb and Brandon Aiyuk and it’s a recipe for disaster. Things get worse as Chris Olave is out this coming week due to a concussion. James Cook had an injury in week six keeping him out. A lot of question marks are popping up for Matt’s roster. He’ll have to stay hungry on the waiver wire to answer some of those questions. Hopefully after the week seven bye for the cowboys, Lamb bounces back. Not out yet, plenty of time to add some W’s.
 
 <br>
