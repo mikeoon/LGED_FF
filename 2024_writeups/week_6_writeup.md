@@ -1,6 +1,6 @@
 # LGED 24-25 Power Rankings Week 6
 
-## Two weeks changes everything... Right?
+## Two weeks changes everything...
 
 ### Whaddupp
 
