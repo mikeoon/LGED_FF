@@ -9,7 +9,7 @@ We are back for LGED's 7th season. Normal shenanigans, always happy to include m
  - **[Week 2: NFL upsets and... INJURIES??!?](./2024_writeups/week_2_writeup.md)**
  - **[Week 3: An All Time Low... We talking Cowboys or Zach's Team?](./2024_writeups/week_3_writeup.md)**
  - **[Week 4: Defense?? No We Want Offense?... Right?](./2024_writeups/week_4_writeup.md)**
- - bye
+ - **Week 5: BYE**
  - **[Week 6: Two weeks changes everything...](./2024_writeups/week_6_writeup.md)**
 
 <br>
